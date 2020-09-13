@@ -1,0 +1,138 @@
+[
+  {
+    "widget_type": "TITLE_ROW",
+    "data": {
+      "text": "کیا اسپورتیج 2400cc",
+      "text_color": "TEXT_PRIMARY"
+    }
+  },
+  {
+    "widget_type": "UNEXPANDABLE_ROW",
+    "data": {
+      "title": "تاریخ انجام کارشناسی",
+      "value": "۹۹/۰۵/۱۲"
+    }
+  },
+  {
+    "widget_type": "SECTION_DIVIDER_ROW"
+  },
+  {
+    "widget_type": "SCORE_ROW",
+    "data": {
+      "title": "بدنه",
+      "percentage_score": 88,
+      "score_color": "SUCCESS_PRIMARY",
+      "image_url": "https://s100.divarcdn.com/static/icons/4/ic_vehicles.png",
+      "image_color": "ICON_SECONDARY",
+      "has_divider": true,
+      "icon": {
+        "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/car_body.png",
+        "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/car_body.png",
+        "icon_name": "CAR_BODY",
+        "icon_color": "ICON_SECONDARY"
+      }
+    }
+  },
+  {
+    "widget_type": "SCORE_ROW",
+    "data": {
+      "title": "لاستیک و رینگ‌ها",
+      "percentage_score": 60,
+      "score_color": "WARNING_SECONDARY",
+      "image_url": "https://s100.divarcdn.com/static/icons/4/ic_car_tires.png",
+      "image_color": "ICON_SECONDARY",
+      "has_divider": true,
+      "icon": {
+        "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/car_tires.png",
+        "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/car_tires.png",
+        "icon_name": "CAR_TIRES",
+        "icon_color": "ICON_SECONDARY"
+      }
+    }
+  },
+  {
+    "widget_type": "SCORE_ROW",
+    "data": {
+      "title": "فضای داخل و تجهیزات",
+      "percentage_score": 100,
+      "score_color": "SUCCESS_PRIMARY",
+      "image_url": "https://s100.divarcdn.com/static/icons/4/ic_car_electronics.png",
+      "image_color": "ICON_SECONDARY",
+      "has_divider": true,
+      "icon": {
+        "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/car_electronics.png",
+        "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/car_electronics.png",
+        "icon_name": "CAR_ELECTRONICS",
+        "icon_color": "ICON_SECONDARY"
+      }
+    }
+  },
+  {
+    "widget_type": "SCORE_ROW",
+    "data": {
+      "title": "موتور و انتقال قدرت",
+      "percentage_score": 100,
+      "score_color": "SUCCESS_PRIMARY",
+      "image_url": "https://s100.divarcdn.com/static/icons/4/ic_car_engine.png",
+      "image_color": "ICON_SECONDARY",
+      "has_divider": true,
+      "icon": {
+        "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/car_engine.png",
+        "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/car_engine.png",
+        "icon_name": "CAR_ENGINE",
+        "icon_color": "ICON_SECONDARY"
+      }
+    }
+  },
+  {
+    "widget_type": "SCORE_ROW",
+    "data": {
+      "title": "تعلیق، فرمان و ترمز",
+      "percentage_score": 89,
+      "score_color": "SUCCESS_PRIMARY",
+      "image_url": "https://s100.divarcdn.com/static/icons/4/ic_car_hydraulics.png",
+      "image_color": "ICON_SECONDARY",
+      "has_divider": true,
+      "icon": {
+        "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/car_hydraulics.png",
+        "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/car_hydraulics.png",
+        "icon_name": "CAR_HYDRAULICS",
+        "icon_color": "ICON_SECONDARY"
+      }
+    }
+  },
+  {
+    "widget_type": "SCORE_ROW",
+    "data": {
+      "title": "آپشن‌ها",
+      "percentage_score": 100,
+      "score_color": "SUCCESS_PRIMARY",
+      "image_url": "https://s100.divarcdn.com/static/icons/4/ic_car_options.png",
+      "image_color": "ICON_SECONDARY",
+      "has_divider": true,
+      "icon": {
+        "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/car_options.png",
+        "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/car_options.png",
+        "icon_name": "CAR_OPTIONS",
+        "icon_color": "ICON_SECONDARY"
+      }
+    }
+  },
+  {
+    "widget_type": "SCORE_ROW",
+    "data": {
+      "title": "سند و مدارک",
+      "descriptive_score": "",
+      "score_color": "SUCCESS_PRIMARY",
+      "image_url": "https://s100.divarcdn.com/static/icons/4/ic_car_documents.png",
+      "image_color": "ICON_SECONDARY",
+      "has_divider": true,
+      "icon": {
+        "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/car_documents.png",
+        "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/car_documents.png",
+        "icon_name": "CAR_DOCUMENTS",
+        "icon_color": "ICON_SECONDARY"
+      }
+    }
+  }
+]

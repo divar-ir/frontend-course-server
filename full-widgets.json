@@ -1,0 +1,3824 @@
+[
+  {
+    "widget_type": "TITLE_ROW",
+    "data": {
+      "text": "کیا اسپورتیج 2400cc",
+      "text_color": "TEXT_PRIMARY"
+    }
+  },
+  {
+    "widget_type": "UNEXPANDABLE_ROW",
+    "data": {
+      "title": "تاریخ انجام کارشناسی",
+      "value": "۹۹/۰۵/۱۲"
+    }
+  },
+  {
+    "widget_type": "SECTION_DIVIDER_ROW"
+  },
+  {
+    "widget_type": "SCORE_ROW",
+    "data": {
+      "title": "بدنه",
+      "percentage_score": 88,
+      "score_color": "SUCCESS_PRIMARY",
+      "image_url": "https://s100.divarcdn.com/static/icons/4/ic_vehicles.png",
+      "image_color": "ICON_SECONDARY",
+      "action": {
+        "type": "LOAD_PAGE",
+        "payload": {
+          "widget_list": [
+            {
+              "widget_type": "LEGEND_TITLE_ROW",
+              "data": {
+                "title": "بدنه",
+                "show_thumbnail": true
+              }
+            },
+            {
+              "widget_type": "DESCRIPTION_ROW",
+              "data": {
+                "text": "کاپوت سنگ خوردگی دارد. به دلیل وجود فلاپ امکان بررسی رکاب ها وجود ندارد.",
+                "has_divider": true
+              }
+            },
+            {
+              "widget_type": "TITLE_ROW",
+              "data": {
+                "text": "درب‌ها و سقف",
+                "has_divider": true,
+                "text_color": "TEXT_PRIMARY"
+              }
+            },
+            {
+              "widget_type": "FEATURE_ROW",
+              "data": {
+                "title": "سقف",
+                "image_url": "https://s100.divarcdn.com/static/icons/4/ic_check_circle.png",
+                "image_color": "SUCCESS_PRIMARY",
+                "has_divider": true,
+                "icon": {
+                  "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/success_primary/check_circle.png",
+                  "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/success_primary/check_circle.png",
+                  "icon_name": "CHECK_CIRCLE",
+                  "icon_color": "SUCCESS_PRIMARY"
+                }
+              }
+            },
+            {
+              "widget_type": "SCORE_ROW",
+              "data": {
+                "title": "درب موتور جلو (کاپوت)",
+                "descriptive_score": "",
+                "score_color": "SUCCESS_SECONDARY",
+                "image_url": "https://s100.divarcdn.com/static/icons/4/ic_check_circle.png",
+                "image_color": "SUCCESS_SECONDARY",
+                "action": {
+                  "type": "LOAD_PAGE",
+                  "payload": {
+                    "title": "درب موتور جلو (کاپوت)",
+                    "widget_list": [
+                      {
+                        "widget_type": "LEGEND_TITLE_ROW",
+                        "data": {
+                          "title": "درب موتور جلو (کاپوت)",
+                          "show_thumbnail": true
+                        }
+                      },
+                      {
+                        "widget_type": "FEATURE_ROW",
+                        "data": {
+                          "title": "آب‌رنگ ندارد.",
+                          "image_url": "https://s100.divarcdn.com/static/icons/4/ic_check_circle.png",
+                          "image_color": "SUCCESS_PRIMARY",
+                          "has_divider": true,
+                          "icon": {
+                            "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/success_primary/check_circle.png",
+                            "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/success_primary/check_circle.png",
+                            "icon_name": "CHECK_CIRCLE",
+                            "icon_color": "SUCCESS_PRIMARY"
+                          }
+                        }
+                      },
+                      {
+                        "widget_type": "FEATURE_ROW",
+                        "data": {
+                          "title": "فرورفتگی یا آسیب‌دیدگی دارد.",
+                          "image_url": "https://s100.divarcdn.com/static/icons/4/ic_cancel.png",
+                          "image_color": "ERROR_PRIMARY",
+                          "has_divider": true,
+                          "icon": {
+                            "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/error_primary/cancel.png",
+                            "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/error_primary/cancel.png",
+                            "icon_name": "CANCEL",
+                            "icon_color": "ERROR_PRIMARY"
+                          }
+                        }
+                      },
+                      {
+                        "widget_type": "FEATURE_ROW",
+                        "data": {
+                          "title": "صافکاری بدون رنگ ندارد.",
+                          "image_url": "https://s100.divarcdn.com/static/icons/4/ic_check_circle.png",
+                          "image_color": "SUCCESS_PRIMARY",
+                          "has_divider": true,
+                          "icon": {
+                            "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/success_primary/check_circle.png",
+                            "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/success_primary/check_circle.png",
+                            "icon_name": "CHECK_CIRCLE",
+                            "icon_color": "SUCCESS_PRIMARY"
+                          }
+                        }
+                      },
+                      {
+                        "widget_type": "FEATURE_ROW",
+                        "data": {
+                          "title": "لیسه‌گیری یا قلم‌گیری ندارد.",
+                          "image_url": "https://s100.divarcdn.com/static/icons/4/ic_check_circle.png",
+                          "image_color": "SUCCESS_PRIMARY",
+                          "has_divider": true,
+                          "icon": {
+                            "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/success_primary/check_circle.png",
+                            "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/success_primary/check_circle.png",
+                            "icon_name": "CHECK_CIRCLE",
+                            "icon_color": "SUCCESS_PRIMARY"
+                          }
+                        }
+                      },
+                      {
+                        "widget_type": "FEATURE_ROW",
+                        "data": {
+                          "title": "آفتاب سوختگی ندارد.",
+                          "image_url": "https://s100.divarcdn.com/static/icons/4/ic_check_circle.png",
+                          "image_color": "SUCCESS_PRIMARY",
+                          "has_divider": true,
+                          "icon": {
+                            "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/success_primary/check_circle.png",
+                            "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/success_primary/check_circle.png",
+                            "icon_name": "CHECK_CIRCLE",
+                            "icon_color": "SUCCESS_PRIMARY"
+                          }
+                        }
+                      },
+                      {
+                        "widget_type": "FEATURE_ROW",
+                        "data": {
+                          "title": "تعویضی نیست.",
+                          "image_url": "https://s100.divarcdn.com/static/icons/4/ic_check_circle.png",
+                          "image_color": "SUCCESS_PRIMARY",
+                          "has_divider": true,
+                          "icon": {
+                            "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/success_primary/check_circle.png",
+                            "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/success_primary/check_circle.png",
+                            "icon_name": "CHECK_CIRCLE",
+                            "icon_color": "SUCCESS_PRIMARY"
+                          }
+                        }
+                      },
+                      {
+                        "widget_type": "FEATURE_ROW",
+                        "data": {
+                          "title": "خط‌‌وخش یا قلم‌گیری ندارد.",
+                          "image_url": "https://s100.divarcdn.com/static/icons/4/ic_check_circle.png",
+                          "image_color": "SUCCESS_PRIMARY",
+                          "has_divider": true,
+                          "icon": {
+                            "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/success_primary/check_circle.png",
+                            "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/success_primary/check_circle.png",
+                            "icon_name": "CHECK_CIRCLE",
+                            "icon_color": "SUCCESS_PRIMARY"
+                          }
+                        }
+                      },
+                      {
+                        "widget_type": "FEATURE_ROW",
+                        "data": {
+                          "title": "رنگ شدگی ندارد.",
+                          "image_url": "https://s100.divarcdn.com/static/icons/4/ic_check_circle.png",
+                          "image_color": "SUCCESS_PRIMARY",
+                          "has_divider": true,
+                          "icon": {
+                            "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/success_primary/check_circle.png",
+                            "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/success_primary/check_circle.png",
+                            "icon_name": "CHECK_CIRCLE",
+                            "icon_color": "SUCCESS_PRIMARY"
+                          }
+                        }
+                      }
+                    ],
+                    "slug": "ZGFyYl9tb3Rvcg=="
+                  }
+                },
+                "icon": {
+                  "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/success_secondary/check_circle.png",
+                  "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/success_secondary/check_circle.png",
+                  "icon_name": "CHECK_CIRCLE",
+                  "icon_color": "SUCCESS_SECONDARY"
+                }
+              }
+            },
+            {
+              "widget_type": "IMAGE_CAROUSEL_ROW",
+              "data": {
+                "items": [
+                  {
+                    "image_url": "https://s100.divarcdn.com/static/images/carinspection/m0SQplJClawaKcPlo-ZWAQ.jpg"
+                  }
+                ]
+              }
+            },
+            {
+              "widget_type": "SCORE_ROW",
+              "data": {
+                "title": "سمت راننده جلو",
+                "descriptive_score": "",
+                "score_color": "SUCCESS_SECONDARY",
+                "image_url": "https://s100.divarcdn.com/static/icons/4/ic_warning.png",
+                "image_color": "WARNING_SECONDARY",
+                "action": {
+                  "type": "LOAD_PAGE",
+                  "payload": {
+                    "title": "سمت راننده جلو",
+                    "widget_list": [
+                      {
+                        "widget_type": "LEGEND_TITLE_ROW",
+                        "data": {
+                          "title": "سمت راننده جلو",
+                          "show_thumbnail": true
+                        }
+                      },
+                      {
+                        "widget_type": "FEATURE_ROW",
+                        "data": {
+                          "title": "آب‌رنگ ندارد.",
+                          "image_url": "https://s100.divarcdn.com/static/icons/4/ic_check_circle.png",
+                          "image_color": "SUCCESS_PRIMARY",
+                          "has_divider": true,
+                          "icon": {
+                            "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/success_primary/check_circle.png",
+                            "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/success_primary/check_circle.png",
+                            "icon_name": "CHECK_CIRCLE",
+                            "icon_color": "SUCCESS_PRIMARY"
+                          }
+                        }
+                      },
+                      {
+                        "widget_type": "FEATURE_ROW",
+                        "data": {
+                          "title": "فرورفتگی یا آسیب‌دیدگی ندارد.",
+                          "image_url": "https://s100.divarcdn.com/static/icons/4/ic_check_circle.png",
+                          "image_color": "SUCCESS_PRIMARY",
+                          "has_divider": true,
+                          "icon": {
+                            "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/success_primary/check_circle.png",
+                            "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/success_primary/check_circle.png",
+                            "icon_name": "CHECK_CIRCLE",
+                            "icon_color": "SUCCESS_PRIMARY"
+                          }
+                        }
+                      },
+                      {
+                        "widget_type": "FEATURE_ROW",
+                        "data": {
+                          "title": "صافکاری بدون رنگ دارد.",
+                          "image_url": "https://s100.divarcdn.com/static/icons/4/ic_cancel.png",
+                          "image_color": "ERROR_PRIMARY",
+                          "has_divider": true,
+                          "icon": {
+                            "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/error_primary/cancel.png",
+                            "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/error_primary/cancel.png",
+                            "icon_name": "CANCEL",
+                            "icon_color": "ERROR_PRIMARY"
+                          }
+                        }
+                      },
+                      {
+                        "widget_type": "FEATURE_ROW",
+                        "data": {
+                          "title": "لیسه‌گیری یا قلم‌گیری ندارد.",
+                          "image_url": "https://s100.divarcdn.com/static/icons/4/ic_check_circle.png",
+                          "image_color": "SUCCESS_PRIMARY",
+                          "has_divider": true,
+                          "icon": {
+                            "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/success_primary/check_circle.png",
+                            "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/success_primary/check_circle.png",
+                            "icon_name": "CHECK_CIRCLE",
+                            "icon_color": "SUCCESS_PRIMARY"
+                          }
+                        }
+                      },
+                      {
+                        "widget_type": "FEATURE_ROW",
+                        "data": {
+                          "title": "آفتاب سوختگی ندارد.",
+                          "image_url": "https://s100.divarcdn.com/static/icons/4/ic_check_circle.png",
+                          "image_color": "SUCCESS_PRIMARY",
+                          "has_divider": true,
+                          "icon": {
+                            "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/success_primary/check_circle.png",
+                            "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/success_primary/check_circle.png",
+                            "icon_name": "CHECK_CIRCLE",
+                            "icon_color": "SUCCESS_PRIMARY"
+                          }
+                        }
+                      },
+                      {
+                        "widget_type": "FEATURE_ROW",
+                        "data": {
+                          "title": "تعویضی نیست.",
+                          "image_url": "https://s100.divarcdn.com/static/icons/4/ic_check_circle.png",
+                          "image_color": "SUCCESS_PRIMARY",
+                          "has_divider": true,
+                          "icon": {
+                            "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/success_primary/check_circle.png",
+                            "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/success_primary/check_circle.png",
+                            "icon_name": "CHECK_CIRCLE",
+                            "icon_color": "SUCCESS_PRIMARY"
+                          }
+                        }
+                      },
+                      {
+                        "widget_type": "FEATURE_ROW",
+                        "data": {
+                          "title": "خط‌‌وخش یا قلم‌گیری ندارد.",
+                          "image_url": "https://s100.divarcdn.com/static/icons/4/ic_check_circle.png",
+                          "image_color": "SUCCESS_PRIMARY",
+                          "has_divider": true,
+                          "icon": {
+                            "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/success_primary/check_circle.png",
+                            "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/success_primary/check_circle.png",
+                            "icon_name": "CHECK_CIRCLE",
+                            "icon_color": "SUCCESS_PRIMARY"
+                          }
+                        }
+                      },
+                      {
+                        "widget_type": "FEATURE_ROW",
+                        "data": {
+                          "title": "رنگ شدگی ندارد.",
+                          "image_url": "https://s100.divarcdn.com/static/icons/4/ic_check_circle.png",
+                          "image_color": "SUCCESS_PRIMARY",
+                          "has_divider": true,
+                          "icon": {
+                            "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/success_primary/check_circle.png",
+                            "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/success_primary/check_circle.png",
+                            "icon_name": "CHECK_CIRCLE",
+                            "icon_color": "SUCCESS_PRIMARY"
+                          }
+                        }
+                      }
+                    ],
+                    "slug": "ZGFyX2pvbG9fcmFzdA=="
+                  }
+                },
+                "has_divider": true,
+                "icon": {
+                  "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/warning_secondary/warning.png",
+                  "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/warning_secondary/warning.png",
+                  "icon_name": "WARNING",
+                  "icon_color": "WARNING_SECONDARY"
+                }
+              }
+            },
+            {
+              "widget_type": "SCORE_ROW",
+              "data": {
+                "title": "سمت راننده عقب",
+                "descriptive_score": "",
+                "score_color": "SUCCESS_SECONDARY",
+                "image_url": "https://s100.divarcdn.com/static/icons/4/ic_warning.png",
+                "image_color": "WARNING_SECONDARY",
+                "action": {
+                  "type": "LOAD_PAGE",
+                  "payload": {
+                    "title": "سمت راننده عقب",
+                    "widget_list": [
+                      {
+                        "widget_type": "LEGEND_TITLE_ROW",
+                        "data": {
+                          "title": "سمت راننده عقب",
+                          "show_thumbnail": true
+                        }
+                      },
+                      {
+                        "widget_type": "FEATURE_ROW",
+                        "data": {
+                          "title": "آب‌رنگ ندارد.",
+                          "image_url": "https://s100.divarcdn.com/static/icons/4/ic_check_circle.png",
+                          "image_color": "SUCCESS_PRIMARY",
+                          "has_divider": true,
+                          "icon": {
+                            "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/success_primary/check_circle.png",
+                            "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/success_primary/check_circle.png",
+                            "icon_name": "CHECK_CIRCLE",
+                            "icon_color": "SUCCESS_PRIMARY"
+                          }
+                        }
+                      },
+                      {
+                        "widget_type": "FEATURE_ROW",
+                        "data": {
+                          "title": "فرورفتگی یا آسیب‌دیدگی ندارد.",
+                          "image_url": "https://s100.divarcdn.com/static/icons/4/ic_check_circle.png",
+                          "image_color": "SUCCESS_PRIMARY",
+                          "has_divider": true,
+                          "icon": {
+                            "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/success_primary/check_circle.png",
+                            "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/success_primary/check_circle.png",
+                            "icon_name": "CHECK_CIRCLE",
+                            "icon_color": "SUCCESS_PRIMARY"
+                          }
+                        }
+                      },
+                      {
+                        "widget_type": "FEATURE_ROW",
+                        "data": {
+                          "title": "صافکاری بدون رنگ دارد.",
+                          "image_url": "https://s100.divarcdn.com/static/icons/4/ic_cancel.png",
+                          "image_color": "ERROR_PRIMARY",
+                          "has_divider": true,
+                          "icon": {
+                            "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/error_primary/cancel.png",
+                            "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/error_primary/cancel.png",
+                            "icon_name": "CANCEL",
+                            "icon_color": "ERROR_PRIMARY"
+                          }
+                        }
+                      },
+                      {
+                        "widget_type": "FEATURE_ROW",
+                        "data": {
+                          "title": "لیسه‌گیری یا قلم‌گیری دارد.",
+                          "image_url": "https://s100.divarcdn.com/static/icons/4/ic_cancel.png",
+                          "image_color": "ERROR_PRIMARY",
+                          "has_divider": true,
+                          "icon": {
+                            "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/error_primary/cancel.png",
+                            "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/error_primary/cancel.png",
+                            "icon_name": "CANCEL",
+                            "icon_color": "ERROR_PRIMARY"
+                          }
+                        }
+                      },
+                      {
+                        "widget_type": "FEATURE_ROW",
+                        "data": {
+                          "title": "آفتاب سوختگی ندارد.",
+                          "image_url": "https://s100.divarcdn.com/static/icons/4/ic_check_circle.png",
+                          "image_color": "SUCCESS_PRIMARY",
+                          "has_divider": true,
+                          "icon": {
+                            "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/success_primary/check_circle.png",
+                            "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/success_primary/check_circle.png",
+                            "icon_name": "CHECK_CIRCLE",
+                            "icon_color": "SUCCESS_PRIMARY"
+                          }
+                        }
+                      },
+                      {
+                        "widget_type": "FEATURE_ROW",
+                        "data": {
+                          "title": "تعویضی نیست.",
+                          "image_url": "https://s100.divarcdn.com/static/icons/4/ic_check_circle.png",
+                          "image_color": "SUCCESS_PRIMARY",
+                          "has_divider": true,
+                          "icon": {
+                            "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/success_primary/check_circle.png",
+                            "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/success_primary/check_circle.png",
+                            "icon_name": "CHECK_CIRCLE",
+                            "icon_color": "SUCCESS_PRIMARY"
+                          }
+                        }
+                      },
+                      {
+                        "widget_type": "FEATURE_ROW",
+                        "data": {
+                          "title": "خط‌‌وخش یا قلم‌گیری ندارد.",
+                          "image_url": "https://s100.divarcdn.com/static/icons/4/ic_check_circle.png",
+                          "image_color": "SUCCESS_PRIMARY",
+                          "has_divider": true,
+                          "icon": {
+                            "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/success_primary/check_circle.png",
+                            "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/success_primary/check_circle.png",
+                            "icon_name": "CHECK_CIRCLE",
+                            "icon_color": "SUCCESS_PRIMARY"
+                          }
+                        }
+                      },
+                      {
+                        "widget_type": "FEATURE_ROW",
+                        "data": {
+                          "title": "رنگ شدگی ندارد.",
+                          "image_url": "https://s100.divarcdn.com/static/icons/4/ic_check_circle.png",
+                          "image_color": "SUCCESS_PRIMARY",
+                          "has_divider": true,
+                          "icon": {
+                            "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/success_primary/check_circle.png",
+                            "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/success_primary/check_circle.png",
+                            "icon_name": "CHECK_CIRCLE",
+                            "icon_color": "SUCCESS_PRIMARY"
+                          }
+                        }
+                      }
+                    ],
+                    "slug": "ZGFyX2FnaGFiX3Jhc3Q="
+                  }
+                },
+                "has_divider": true,
+                "icon": {
+                  "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/warning_secondary/warning.png",
+                  "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/warning_secondary/warning.png",
+                  "icon_name": "WARNING",
+                  "icon_color": "WARNING_SECONDARY"
+                }
+              }
+            },
+            {
+              "widget_type": "SCORE_ROW",
+              "data": {
+                "title": "صندوق عقب",
+                "descriptive_score": "",
+                "score_color": "SUCCESS_SECONDARY",
+                "image_url": "https://s100.divarcdn.com/static/icons/4/ic_warning.png",
+                "image_color": "WARNING_SECONDARY",
+                "action": {
+                  "type": "LOAD_PAGE",
+                  "payload": {
+                    "title": "صندوق عقب",
+                    "widget_list": [
+                      {
+                        "widget_type": "LEGEND_TITLE_ROW",
+                        "data": {
+                          "title": "صندوق عقب",
+                          "show_thumbnail": true
+                        }
+                      },
+                      {
+                        "widget_type": "FEATURE_ROW",
+                        "data": {
+                          "title": "آب‌رنگ ندارد.",
+                          "image_url": "https://s100.divarcdn.com/static/icons/4/ic_check_circle.png",
+                          "image_color": "SUCCESS_PRIMARY",
+                          "has_divider": true,
+                          "icon": {
+                            "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/success_primary/check_circle.png",
+                            "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/success_primary/check_circle.png",
+                            "icon_name": "CHECK_CIRCLE",
+                            "icon_color": "SUCCESS_PRIMARY"
+                          }
+                        }
+                      },
+                      {
+                        "widget_type": "FEATURE_ROW",
+                        "data": {
+                          "title": "فرورفتگی یا آسیب‌دیدگی ندارد.",
+                          "image_url": "https://s100.divarcdn.com/static/icons/4/ic_check_circle.png",
+                          "image_color": "SUCCESS_PRIMARY",
+                          "has_divider": true,
+                          "icon": {
+                            "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/success_primary/check_circle.png",
+                            "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/success_primary/check_circle.png",
+                            "icon_name": "CHECK_CIRCLE",
+                            "icon_color": "SUCCESS_PRIMARY"
+                          }
+                        }
+                      },
+                      {
+                        "widget_type": "FEATURE_ROW",
+                        "data": {
+                          "title": "صافکاری بدون رنگ دارد.",
+                          "image_url": "https://s100.divarcdn.com/static/icons/4/ic_cancel.png",
+                          "image_color": "ERROR_PRIMARY",
+                          "has_divider": true,
+                          "icon": {
+                            "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/error_primary/cancel.png",
+                            "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/error_primary/cancel.png",
+                            "icon_name": "CANCEL",
+                            "icon_color": "ERROR_PRIMARY"
+                          }
+                        }
+                      },
+                      {
+                        "widget_type": "FEATURE_ROW",
+                        "data": {
+                          "title": "لیسه‌گیری یا قلم‌گیری دارد.",
+                          "image_url": "https://s100.divarcdn.com/static/icons/4/ic_cancel.png",
+                          "image_color": "ERROR_PRIMARY",
+                          "has_divider": true,
+                          "icon": {
+                            "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/error_primary/cancel.png",
+                            "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/error_primary/cancel.png",
+                            "icon_name": "CANCEL",
+                            "icon_color": "ERROR_PRIMARY"
+                          }
+                        }
+                      },
+                      {
+                        "widget_type": "FEATURE_ROW",
+                        "data": {
+                          "title": "آفتاب سوختگی ندارد.",
+                          "image_url": "https://s100.divarcdn.com/static/icons/4/ic_check_circle.png",
+                          "image_color": "SUCCESS_PRIMARY",
+                          "has_divider": true,
+                          "icon": {
+                            "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/success_primary/check_circle.png",
+                            "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/success_primary/check_circle.png",
+                            "icon_name": "CHECK_CIRCLE",
+                            "icon_color": "SUCCESS_PRIMARY"
+                          }
+                        }
+                      },
+                      {
+                        "widget_type": "FEATURE_ROW",
+                        "data": {
+                          "title": "تعویضی نیست.",
+                          "image_url": "https://s100.divarcdn.com/static/icons/4/ic_check_circle.png",
+                          "image_color": "SUCCESS_PRIMARY",
+                          "has_divider": true,
+                          "icon": {
+                            "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/success_primary/check_circle.png",
+                            "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/success_primary/check_circle.png",
+                            "icon_name": "CHECK_CIRCLE",
+                            "icon_color": "SUCCESS_PRIMARY"
+                          }
+                        }
+                      },
+                      {
+                        "widget_type": "FEATURE_ROW",
+                        "data": {
+                          "title": "خط‌‌وخش یا قلم‌گیری ندارد.",
+                          "image_url": "https://s100.divarcdn.com/static/icons/4/ic_check_circle.png",
+                          "image_color": "SUCCESS_PRIMARY",
+                          "has_divider": true,
+                          "icon": {
+                            "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/success_primary/check_circle.png",
+                            "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/success_primary/check_circle.png",
+                            "icon_name": "CHECK_CIRCLE",
+                            "icon_color": "SUCCESS_PRIMARY"
+                          }
+                        }
+                      },
+                      {
+                        "widget_type": "FEATURE_ROW",
+                        "data": {
+                          "title": "رنگ شدگی ندارد.",
+                          "image_url": "https://s100.divarcdn.com/static/icons/4/ic_check_circle.png",
+                          "image_color": "SUCCESS_PRIMARY",
+                          "has_divider": true,
+                          "icon": {
+                            "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/success_primary/check_circle.png",
+                            "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/success_primary/check_circle.png",
+                            "icon_name": "CHECK_CIRCLE",
+                            "icon_color": "SUCCESS_PRIMARY"
+                          }
+                        }
+                      }
+                    ],
+                    "slug": "ZGFyX3NhbmRvZ2hfYWdoYWI="
+                  }
+                },
+                "has_divider": true,
+                "icon": {
+                  "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/warning_secondary/warning.png",
+                  "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/warning_secondary/warning.png",
+                  "icon_name": "WARNING",
+                  "icon_color": "WARNING_SECONDARY"
+                }
+              }
+            },
+            {
+              "widget_type": "SCORE_ROW",
+              "data": {
+                "title": "سمت سرنشین عقب",
+                "descriptive_score": "",
+                "score_color": "SUCCESS_SECONDARY",
+                "image_url": "https://s100.divarcdn.com/static/icons/4/ic_warning.png",
+                "image_color": "WARNING_SECONDARY",
+                "action": {
+                  "type": "LOAD_PAGE",
+                  "payload": {
+                    "title": "سمت سرنشین عقب",
+                    "widget_list": [
+                      {
+                        "widget_type": "LEGEND_TITLE_ROW",
+                        "data": {
+                          "title": "سمت سرنشین عقب",
+                          "show_thumbnail": true
+                        }
+                      },
+                      {
+                        "widget_type": "FEATURE_ROW",
+                        "data": {
+                          "title": "آب‌رنگ ندارد.",
+                          "image_url": "https://s100.divarcdn.com/static/icons/4/ic_check_circle.png",
+                          "image_color": "SUCCESS_PRIMARY",
+                          "has_divider": true,
+                          "icon": {
+                            "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/success_primary/check_circle.png",
+                            "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/success_primary/check_circle.png",
+                            "icon_name": "CHECK_CIRCLE",
+                            "icon_color": "SUCCESS_PRIMARY"
+                          }
+                        }
+                      },
+                      {
+                        "widget_type": "FEATURE_ROW",
+                        "data": {
+                          "title": "فرورفتگی یا آسیب‌دیدگی ندارد.",
+                          "image_url": "https://s100.divarcdn.com/static/icons/4/ic_check_circle.png",
+                          "image_color": "SUCCESS_PRIMARY",
+                          "has_divider": true,
+                          "icon": {
+                            "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/success_primary/check_circle.png",
+                            "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/success_primary/check_circle.png",
+                            "icon_name": "CHECK_CIRCLE",
+                            "icon_color": "SUCCESS_PRIMARY"
+                          }
+                        }
+                      },
+                      {
+                        "widget_type": "FEATURE_ROW",
+                        "data": {
+                          "title": "صافکاری بدون رنگ دارد.",
+                          "image_url": "https://s100.divarcdn.com/static/icons/4/ic_cancel.png",
+                          "image_color": "ERROR_PRIMARY",
+                          "has_divider": true,
+                          "icon": {
+                            "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/error_primary/cancel.png",
+                            "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/error_primary/cancel.png",
+                            "icon_name": "CANCEL",
+                            "icon_color": "ERROR_PRIMARY"
+                          }
+                        }
+                      },
+                      {
+                        "widget_type": "FEATURE_ROW",
+                        "data": {
+                          "title": "لیسه‌گیری یا قلم‌گیری دارد.",
+                          "image_url": "https://s100.divarcdn.com/static/icons/4/ic_cancel.png",
+                          "image_color": "ERROR_PRIMARY",
+                          "has_divider": true,
+                          "icon": {
+                            "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/error_primary/cancel.png",
+                            "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/error_primary/cancel.png",
+                            "icon_name": "CANCEL",
+                            "icon_color": "ERROR_PRIMARY"
+                          }
+                        }
+                      },
+                      {
+                        "widget_type": "FEATURE_ROW",
+                        "data": {
+                          "title": "آفتاب سوختگی ندارد.",
+                          "image_url": "https://s100.divarcdn.com/static/icons/4/ic_check_circle.png",
+                          "image_color": "SUCCESS_PRIMARY",
+                          "has_divider": true,
+                          "icon": {
+                            "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/success_primary/check_circle.png",
+                            "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/success_primary/check_circle.png",
+                            "icon_name": "CHECK_CIRCLE",
+                            "icon_color": "SUCCESS_PRIMARY"
+                          }
+                        }
+                      },
+                      {
+                        "widget_type": "FEATURE_ROW",
+                        "data": {
+                          "title": "تعویضی نیست.",
+                          "image_url": "https://s100.divarcdn.com/static/icons/4/ic_check_circle.png",
+                          "image_color": "SUCCESS_PRIMARY",
+                          "has_divider": true,
+                          "icon": {
+                            "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/success_primary/check_circle.png",
+                            "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/success_primary/check_circle.png",
+                            "icon_name": "CHECK_CIRCLE",
+                            "icon_color": "SUCCESS_PRIMARY"
+                          }
+                        }
+                      },
+                      {
+                        "widget_type": "FEATURE_ROW",
+                        "data": {
+                          "title": "خط‌‌وخش یا قلم‌گیری ندارد.",
+                          "image_url": "https://s100.divarcdn.com/static/icons/4/ic_check_circle.png",
+                          "image_color": "SUCCESS_PRIMARY",
+                          "has_divider": true,
+                          "icon": {
+                            "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/success_primary/check_circle.png",
+                            "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/success_primary/check_circle.png",
+                            "icon_name": "CHECK_CIRCLE",
+                            "icon_color": "SUCCESS_PRIMARY"
+                          }
+                        }
+                      },
+                      {
+                        "widget_type": "FEATURE_ROW",
+                        "data": {
+                          "title": "رنگ شدگی ندارد.",
+                          "image_url": "https://s100.divarcdn.com/static/icons/4/ic_check_circle.png",
+                          "image_color": "SUCCESS_PRIMARY",
+                          "has_divider": true,
+                          "icon": {
+                            "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/success_primary/check_circle.png",
+                            "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/success_primary/check_circle.png",
+                            "icon_name": "CHECK_CIRCLE",
+                            "icon_color": "SUCCESS_PRIMARY"
+                          }
+                        }
+                      }
+                    ],
+                    "slug": "ZGFyX2FnaGFiX2NoYXA="
+                  }
+                },
+                "icon": {
+                  "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/warning_secondary/warning.png",
+                  "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/warning_secondary/warning.png",
+                  "icon_name": "WARNING",
+                  "icon_color": "WARNING_SECONDARY"
+                }
+              }
+            },
+            {
+              "widget_type": "IMAGE_CAROUSEL_ROW",
+              "data": {
+                "items": [
+                  {
+                    "image_url": "https://s100.divarcdn.com/static/images/carinspection/knu4WbY09YADQkf9xEud6Q.jpg"
+                  }
+                ]
+              }
+            },
+            {
+              "widget_type": "SCORE_ROW",
+              "data": {
+                "title": "سمت سرنشین جلو",
+                "descriptive_score": "",
+                "score_color": "SUCCESS_SECONDARY",
+                "image_url": "https://s100.divarcdn.com/static/icons/4/ic_warning.png",
+                "image_color": "WARNING_SECONDARY",
+                "action": {
+                  "type": "LOAD_PAGE",
+                  "payload": {
+                    "title": "سمت سرنشین جلو",
+                    "widget_list": [
+                      {
+                        "widget_type": "LEGEND_TITLE_ROW",
+                        "data": {
+                          "title": "سمت سرنشین جلو",
+                          "show_thumbnail": true
+                        }
+                      },
+                      {
+                        "widget_type": "FEATURE_ROW",
+                        "data": {
+                          "title": "آب‌رنگ ندارد.",
+                          "image_url": "https://s100.divarcdn.com/static/icons/4/ic_check_circle.png",
+                          "image_color": "SUCCESS_PRIMARY",
+                          "has_divider": true,
+                          "icon": {
+                            "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/success_primary/check_circle.png",
+                            "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/success_primary/check_circle.png",
+                            "icon_name": "CHECK_CIRCLE",
+                            "icon_color": "SUCCESS_PRIMARY"
+                          }
+                        }
+                      },
+                      {
+                        "widget_type": "FEATURE_ROW",
+                        "data": {
+                          "title": "فرورفتگی یا آسیب‌دیدگی دارد.",
+                          "image_url": "https://s100.divarcdn.com/static/icons/4/ic_cancel.png",
+                          "image_color": "ERROR_PRIMARY",
+                          "has_divider": true,
+                          "icon": {
+                            "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/error_primary/cancel.png",
+                            "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/error_primary/cancel.png",
+                            "icon_name": "CANCEL",
+                            "icon_color": "ERROR_PRIMARY"
+                          }
+                        }
+                      },
+                      {
+                        "widget_type": "FEATURE_ROW",
+                        "data": {
+                          "title": "صافکاری بدون رنگ دارد.",
+                          "image_url": "https://s100.divarcdn.com/static/icons/4/ic_cancel.png",
+                          "image_color": "ERROR_PRIMARY",
+                          "has_divider": true,
+                          "icon": {
+                            "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/error_primary/cancel.png",
+                            "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/error_primary/cancel.png",
+                            "icon_name": "CANCEL",
+                            "icon_color": "ERROR_PRIMARY"
+                          }
+                        }
+                      },
+                      {
+                        "widget_type": "FEATURE_ROW",
+                        "data": {
+                          "title": "لیسه‌گیری یا قلم‌گیری ندارد.",
+                          "image_url": "https://s100.divarcdn.com/static/icons/4/ic_check_circle.png",
+                          "image_color": "SUCCESS_PRIMARY",
+                          "has_divider": true,
+                          "icon": {
+                            "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/success_primary/check_circle.png",
+                            "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/success_primary/check_circle.png",
+                            "icon_name": "CHECK_CIRCLE",
+                            "icon_color": "SUCCESS_PRIMARY"
+                          }
+                        }
+                      },
+                      {
+                        "widget_type": "FEATURE_ROW",
+                        "data": {
+                          "title": "آفتاب سوختگی ندارد.",
+                          "image_url": "https://s100.divarcdn.com/static/icons/4/ic_check_circle.png",
+                          "image_color": "SUCCESS_PRIMARY",
+                          "has_divider": true,
+                          "icon": {
+                            "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/success_primary/check_circle.png",
+                            "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/success_primary/check_circle.png",
+                            "icon_name": "CHECK_CIRCLE",
+                            "icon_color": "SUCCESS_PRIMARY"
+                          }
+                        }
+                      },
+                      {
+                        "widget_type": "FEATURE_ROW",
+                        "data": {
+                          "title": "تعویضی نیست.",
+                          "image_url": "https://s100.divarcdn.com/static/icons/4/ic_check_circle.png",
+                          "image_color": "SUCCESS_PRIMARY",
+                          "has_divider": true,
+                          "icon": {
+                            "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/success_primary/check_circle.png",
+                            "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/success_primary/check_circle.png",
+                            "icon_name": "CHECK_CIRCLE",
+                            "icon_color": "SUCCESS_PRIMARY"
+                          }
+                        }
+                      },
+                      {
+                        "widget_type": "FEATURE_ROW",
+                        "data": {
+                          "title": "خط‌‌وخش یا قلم‌گیری ندارد.",
+                          "image_url": "https://s100.divarcdn.com/static/icons/4/ic_check_circle.png",
+                          "image_color": "SUCCESS_PRIMARY",
+                          "has_divider": true,
+                          "icon": {
+                            "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/success_primary/check_circle.png",
+                            "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/success_primary/check_circle.png",
+                            "icon_name": "CHECK_CIRCLE",
+                            "icon_color": "SUCCESS_PRIMARY"
+                          }
+                        }
+                      },
+                      {
+                        "widget_type": "FEATURE_ROW",
+                        "data": {
+                          "title": "رنگ شدگی ندارد.",
+                          "image_url": "https://s100.divarcdn.com/static/icons/4/ic_check_circle.png",
+                          "image_color": "SUCCESS_PRIMARY",
+                          "has_divider": true,
+                          "icon": {
+                            "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/success_primary/check_circle.png",
+                            "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/success_primary/check_circle.png",
+                            "icon_name": "CHECK_CIRCLE",
+                            "icon_color": "SUCCESS_PRIMARY"
+                          }
+                        }
+                      }
+                    ],
+                    "slug": "ZGFyX2pvbG9fY2hhcA=="
+                  }
+                },
+                "has_divider": true,
+                "icon": {
+                  "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/warning_secondary/warning.png",
+                  "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/warning_secondary/warning.png",
+                  "icon_name": "WARNING",
+                  "icon_color": "WARNING_SECONDARY"
+                }
+              }
+            },
+            {
+              "widget_type": "TITLE_ROW",
+              "data": {
+                "text": "گل‌گیر‌ها",
+                "has_divider": true,
+                "text_color": "TEXT_PRIMARY"
+              }
+            },
+            {
+              "widget_type": "FEATURE_ROW",
+              "data": {
+                "title": "سمت راننده جلو",
+                "image_url": "https://s100.divarcdn.com/static/icons/4/ic_check_circle.png",
+                "image_color": "SUCCESS_PRIMARY",
+                "has_divider": true,
+                "icon": {
+                  "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/success_primary/check_circle.png",
+                  "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/success_primary/check_circle.png",
+                  "icon_name": "CHECK_CIRCLE",
+                  "icon_color": "SUCCESS_PRIMARY"
+                }
+              }
+            },
+            {
+              "widget_type": "SCORE_ROW",
+              "data": {
+                "title": "سمت راننده عقب",
+                "descriptive_score": "",
+                "score_color": "SUCCESS_SECONDARY",
+                "image_url": "https://s100.divarcdn.com/static/icons/4/ic_check_circle.png",
+                "image_color": "SUCCESS_SECONDARY",
+                "action": {
+                  "type": "LOAD_PAGE",
+                  "payload": {
+                    "title": "سمت راننده عقب",
+                    "widget_list": [
+                      {
+                        "widget_type": "LEGEND_TITLE_ROW",
+                        "data": {
+                          "title": "سمت راننده عقب",
+                          "show_thumbnail": true
+                        }
+                      },
+                      {
+                        "widget_type": "FEATURE_ROW",
+                        "data": {
+                          "title": "آب‌رنگ ندارد.",
+                          "image_url": "https://s100.divarcdn.com/static/icons/4/ic_check_circle.png",
+                          "image_color": "SUCCESS_PRIMARY",
+                          "has_divider": true,
+                          "icon": {
+                            "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/success_primary/check_circle.png",
+                            "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/success_primary/check_circle.png",
+                            "icon_name": "CHECK_CIRCLE",
+                            "icon_color": "SUCCESS_PRIMARY"
+                          }
+                        }
+                      },
+                      {
+                        "widget_type": "FEATURE_ROW",
+                        "data": {
+                          "title": "فرورفتگی یا آسیب‌دیدگی ندارد.",
+                          "image_url": "https://s100.divarcdn.com/static/icons/4/ic_check_circle.png",
+                          "image_color": "SUCCESS_PRIMARY",
+                          "has_divider": true,
+                          "icon": {
+                            "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/success_primary/check_circle.png",
+                            "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/success_primary/check_circle.png",
+                            "icon_name": "CHECK_CIRCLE",
+                            "icon_color": "SUCCESS_PRIMARY"
+                          }
+                        }
+                      },
+                      {
+                        "widget_type": "FEATURE_ROW",
+                        "data": {
+                          "title": "صافکاری بدون رنگ ندارد.",
+                          "image_url": "https://s100.divarcdn.com/static/icons/4/ic_check_circle.png",
+                          "image_color": "SUCCESS_PRIMARY",
+                          "has_divider": true,
+                          "icon": {
+                            "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/success_primary/check_circle.png",
+                            "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/success_primary/check_circle.png",
+                            "icon_name": "CHECK_CIRCLE",
+                            "icon_color": "SUCCESS_PRIMARY"
+                          }
+                        }
+                      },
+                      {
+                        "widget_type": "FEATURE_ROW",
+                        "data": {
+                          "title": "لیسه‌گیری یا قلم‌گیری ندارد.",
+                          "image_url": "https://s100.divarcdn.com/static/icons/4/ic_check_circle.png",
+                          "image_color": "SUCCESS_PRIMARY",
+                          "has_divider": true,
+                          "icon": {
+                            "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/success_primary/check_circle.png",
+                            "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/success_primary/check_circle.png",
+                            "icon_name": "CHECK_CIRCLE",
+                            "icon_color": "SUCCESS_PRIMARY"
+                          }
+                        }
+                      },
+                      {
+                        "widget_type": "FEATURE_ROW",
+                        "data": {
+                          "title": "آفتاب سوختگی ندارد.",
+                          "image_url": "https://s100.divarcdn.com/static/icons/4/ic_check_circle.png",
+                          "image_color": "SUCCESS_PRIMARY",
+                          "has_divider": true,
+                          "icon": {
+                            "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/success_primary/check_circle.png",
+                            "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/success_primary/check_circle.png",
+                            "icon_name": "CHECK_CIRCLE",
+                            "icon_color": "SUCCESS_PRIMARY"
+                          }
+                        }
+                      },
+                      {
+                        "widget_type": "FEATURE_ROW",
+                        "data": {
+                          "title": "تعویضی نیست.",
+                          "image_url": "https://s100.divarcdn.com/static/icons/4/ic_check_circle.png",
+                          "image_color": "SUCCESS_PRIMARY",
+                          "has_divider": true,
+                          "icon": {
+                            "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/success_primary/check_circle.png",
+                            "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/success_primary/check_circle.png",
+                            "icon_name": "CHECK_CIRCLE",
+                            "icon_color": "SUCCESS_PRIMARY"
+                          }
+                        }
+                      },
+                      {
+                        "widget_type": "FEATURE_ROW",
+                        "data": {
+                          "title": "خط‌‌وخش یا قلم‌گیری.",
+                          "image_url": "https://s100.divarcdn.com/static/icons/4/ic_cancel.png",
+                          "image_color": "ERROR_PRIMARY",
+                          "has_divider": true,
+                          "icon": {
+                            "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/error_primary/cancel.png",
+                            "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/error_primary/cancel.png",
+                            "icon_name": "CANCEL",
+                            "icon_color": "ERROR_PRIMARY"
+                          }
+                        }
+                      },
+                      {
+                        "widget_type": "FEATURE_ROW",
+                        "data": {
+                          "title": "رنگ شدگی ندارد.",
+                          "image_url": "https://s100.divarcdn.com/static/icons/4/ic_check_circle.png",
+                          "image_color": "SUCCESS_PRIMARY",
+                          "has_divider": true,
+                          "icon": {
+                            "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/success_primary/check_circle.png",
+                            "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/success_primary/check_circle.png",
+                            "icon_name": "CHECK_CIRCLE",
+                            "icon_color": "SUCCESS_PRIMARY"
+                          }
+                        }
+                      }
+                    ],
+                    "slug": "Z2VsZ2lscl9hZ2hhYl9yYXN0"
+                  }
+                },
+                "icon": {
+                  "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/success_secondary/check_circle.png",
+                  "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/success_secondary/check_circle.png",
+                  "icon_name": "CHECK_CIRCLE",
+                  "icon_color": "SUCCESS_SECONDARY"
+                }
+              }
+            },
+            {
+              "widget_type": "IMAGE_CAROUSEL_ROW",
+              "data": {
+                "items": [
+                  {
+                    "image_url": "https://s100.divarcdn.com/static/images/carinspection/xRyGjMxQnUlttf7K02tNCg.jpg"
+                  }
+                ]
+              }
+            },
+            {
+              "widget_type": "SCORE_ROW",
+              "data": {
+                "title": "سمت سرنشین عقب",
+                "descriptive_score": "",
+                "score_color": "SUCCESS_SECONDARY",
+                "image_url": "https://s100.divarcdn.com/static/icons/4/ic_check_circle.png",
+                "image_color": "SUCCESS_SECONDARY",
+                "action": {
+                  "type": "LOAD_PAGE",
+                  "payload": {
+                    "title": "سمت سرنشین عقب",
+                    "widget_list": [
+                      {
+                        "widget_type": "LEGEND_TITLE_ROW",
+                        "data": {
+                          "title": "سمت سرنشین عقب",
+                          "show_thumbnail": true
+                        }
+                      },
+                      {
+                        "widget_type": "FEATURE_ROW",
+                        "data": {
+                          "title": "آب‌رنگ ندارد.",
+                          "image_url": "https://s100.divarcdn.com/static/icons/4/ic_check_circle.png",
+                          "image_color": "SUCCESS_PRIMARY",
+                          "has_divider": true,
+                          "icon": {
+                            "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/success_primary/check_circle.png",
+                            "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/success_primary/check_circle.png",
+                            "icon_name": "CHECK_CIRCLE",
+                            "icon_color": "SUCCESS_PRIMARY"
+                          }
+                        }
+                      },
+                      {
+                        "widget_type": "FEATURE_ROW",
+                        "data": {
+                          "title": "فرورفتگی یا آسیب‌دیدگی ندارد.",
+                          "image_url": "https://s100.divarcdn.com/static/icons/4/ic_check_circle.png",
+                          "image_color": "SUCCESS_PRIMARY",
+                          "has_divider": true,
+                          "icon": {
+                            "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/success_primary/check_circle.png",
+                            "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/success_primary/check_circle.png",
+                            "icon_name": "CHECK_CIRCLE",
+                            "icon_color": "SUCCESS_PRIMARY"
+                          }
+                        }
+                      },
+                      {
+                        "widget_type": "FEATURE_ROW",
+                        "data": {
+                          "title": "صافکاری بدون رنگ ندارد.",
+                          "image_url": "https://s100.divarcdn.com/static/icons/4/ic_check_circle.png",
+                          "image_color": "SUCCESS_PRIMARY",
+                          "has_divider": true,
+                          "icon": {
+                            "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/success_primary/check_circle.png",
+                            "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/success_primary/check_circle.png",
+                            "icon_name": "CHECK_CIRCLE",
+                            "icon_color": "SUCCESS_PRIMARY"
+                          }
+                        }
+                      },
+                      {
+                        "widget_type": "FEATURE_ROW",
+                        "data": {
+                          "title": "لیسه‌گیری یا قلم‌گیری ندارد.",
+                          "image_url": "https://s100.divarcdn.com/static/icons/4/ic_check_circle.png",
+                          "image_color": "SUCCESS_PRIMARY",
+                          "has_divider": true,
+                          "icon": {
+                            "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/success_primary/check_circle.png",
+                            "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/success_primary/check_circle.png",
+                            "icon_name": "CHECK_CIRCLE",
+                            "icon_color": "SUCCESS_PRIMARY"
+                          }
+                        }
+                      },
+                      {
+                        "widget_type": "FEATURE_ROW",
+                        "data": {
+                          "title": "آفتاب سوختگی دارد.",
+                          "image_url": "https://s100.divarcdn.com/static/icons/4/ic_cancel.png",
+                          "image_color": "ERROR_PRIMARY",
+                          "has_divider": true,
+                          "icon": {
+                            "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/error_primary/cancel.png",
+                            "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/error_primary/cancel.png",
+                            "icon_name": "CANCEL",
+                            "icon_color": "ERROR_PRIMARY"
+                          }
+                        }
+                      },
+                      {
+                        "widget_type": "FEATURE_ROW",
+                        "data": {
+                          "title": "تعویضی نیست.",
+                          "image_url": "https://s100.divarcdn.com/static/icons/4/ic_check_circle.png",
+                          "image_color": "SUCCESS_PRIMARY",
+                          "has_divider": true,
+                          "icon": {
+                            "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/success_primary/check_circle.png",
+                            "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/success_primary/check_circle.png",
+                            "icon_name": "CHECK_CIRCLE",
+                            "icon_color": "SUCCESS_PRIMARY"
+                          }
+                        }
+                      },
+                      {
+                        "widget_type": "FEATURE_ROW",
+                        "data": {
+                          "title": "خط‌‌وخش یا قلم‌گیری ندارد.",
+                          "image_url": "https://s100.divarcdn.com/static/icons/4/ic_check_circle.png",
+                          "image_color": "SUCCESS_PRIMARY",
+                          "has_divider": true,
+                          "icon": {
+                            "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/success_primary/check_circle.png",
+                            "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/success_primary/check_circle.png",
+                            "icon_name": "CHECK_CIRCLE",
+                            "icon_color": "SUCCESS_PRIMARY"
+                          }
+                        }
+                      },
+                      {
+                        "widget_type": "FEATURE_ROW",
+                        "data": {
+                          "title": "رنگ شدگی ندارد.",
+                          "image_url": "https://s100.divarcdn.com/static/icons/4/ic_check_circle.png",
+                          "image_color": "SUCCESS_PRIMARY",
+                          "has_divider": true,
+                          "icon": {
+                            "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/success_primary/check_circle.png",
+                            "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/success_primary/check_circle.png",
+                            "icon_name": "CHECK_CIRCLE",
+                            "icon_color": "SUCCESS_PRIMARY"
+                          }
+                        }
+                      }
+                    ],
+                    "slug": "Z2VsZ2lyX2FnaGFiX2NoYXA="
+                  }
+                },
+                "icon": {
+                  "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/success_secondary/check_circle.png",
+                  "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/success_secondary/check_circle.png",
+                  "icon_name": "CHECK_CIRCLE",
+                  "icon_color": "SUCCESS_SECONDARY"
+                }
+              }
+            },
+            {
+              "widget_type": "IMAGE_CAROUSEL_ROW",
+              "data": {
+                "items": [
+                  {
+                    "image_url": "https://s100.divarcdn.com/static/images/carinspection/67n83DRLiAAbBo3ndZ4UPA.jpg"
+                  }
+                ]
+              }
+            },
+            {
+              "widget_type": "SCORE_ROW",
+              "data": {
+                "title": "سمت سرنشین جلو",
+                "descriptive_score": "",
+                "score_color": "SUCCESS_SECONDARY",
+                "image_url": "https://s100.divarcdn.com/static/icons/4/ic_check_circle.png",
+                "image_color": "SUCCESS_SECONDARY",
+                "action": {
+                  "type": "LOAD_PAGE",
+                  "payload": {
+                    "title": "سمت سرنشین جلو",
+                    "widget_list": [
+                      {
+                        "widget_type": "LEGEND_TITLE_ROW",
+                        "data": {
+                          "title": "سمت سرنشین جلو",
+                          "show_thumbnail": true
+                        }
+                      },
+                      {
+                        "widget_type": "FEATURE_ROW",
+                        "data": {
+                          "title": "آب‌رنگ ندارد.",
+                          "image_url": "https://s100.divarcdn.com/static/icons/4/ic_check_circle.png",
+                          "image_color": "SUCCESS_PRIMARY",
+                          "has_divider": true,
+                          "icon": {
+                            "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/success_primary/check_circle.png",
+                            "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/success_primary/check_circle.png",
+                            "icon_name": "CHECK_CIRCLE",
+                            "icon_color": "SUCCESS_PRIMARY"
+                          }
+                        }
+                      },
+                      {
+                        "widget_type": "FEATURE_ROW",
+                        "data": {
+                          "title": "فرورفتگی یا آسیب‌دیدگی ندارد.",
+                          "image_url": "https://s100.divarcdn.com/static/icons/4/ic_check_circle.png",
+                          "image_color": "SUCCESS_PRIMARY",
+                          "has_divider": true,
+                          "icon": {
+                            "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/success_primary/check_circle.png",
+                            "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/success_primary/check_circle.png",
+                            "icon_name": "CHECK_CIRCLE",
+                            "icon_color": "SUCCESS_PRIMARY"
+                          }
+                        }
+                      },
+                      {
+                        "widget_type": "FEATURE_ROW",
+                        "data": {
+                          "title": "صافکاری بدون رنگ ندارد.",
+                          "image_url": "https://s100.divarcdn.com/static/icons/4/ic_check_circle.png",
+                          "image_color": "SUCCESS_PRIMARY",
+                          "has_divider": true,
+                          "icon": {
+                            "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/success_primary/check_circle.png",
+                            "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/success_primary/check_circle.png",
+                            "icon_name": "CHECK_CIRCLE",
+                            "icon_color": "SUCCESS_PRIMARY"
+                          }
+                        }
+                      },
+                      {
+                        "widget_type": "FEATURE_ROW",
+                        "data": {
+                          "title": "لیسه‌گیری یا قلم‌گیری ندارد.",
+                          "image_url": "https://s100.divarcdn.com/static/icons/4/ic_check_circle.png",
+                          "image_color": "SUCCESS_PRIMARY",
+                          "has_divider": true,
+                          "icon": {
+                            "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/success_primary/check_circle.png",
+                            "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/success_primary/check_circle.png",
+                            "icon_name": "CHECK_CIRCLE",
+                            "icon_color": "SUCCESS_PRIMARY"
+                          }
+                        }
+                      },
+                      {
+                        "widget_type": "FEATURE_ROW",
+                        "data": {
+                          "title": "آفتاب سوختگی ندارد.",
+                          "image_url": "https://s100.divarcdn.com/static/icons/4/ic_check_circle.png",
+                          "image_color": "SUCCESS_PRIMARY",
+                          "has_divider": true,
+                          "icon": {
+                            "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/success_primary/check_circle.png",
+                            "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/success_primary/check_circle.png",
+                            "icon_name": "CHECK_CIRCLE",
+                            "icon_color": "SUCCESS_PRIMARY"
+                          }
+                        }
+                      },
+                      {
+                        "widget_type": "FEATURE_ROW",
+                        "data": {
+                          "title": "تعویضی نیست.",
+                          "image_url": "https://s100.divarcdn.com/static/icons/4/ic_check_circle.png",
+                          "image_color": "SUCCESS_PRIMARY",
+                          "has_divider": true,
+                          "icon": {
+                            "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/success_primary/check_circle.png",
+                            "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/success_primary/check_circle.png",
+                            "icon_name": "CHECK_CIRCLE",
+                            "icon_color": "SUCCESS_PRIMARY"
+                          }
+                        }
+                      },
+                      {
+                        "widget_type": "FEATURE_ROW",
+                        "data": {
+                          "title": "خط‌‌وخش یا قلم‌گیری.",
+                          "image_url": "https://s100.divarcdn.com/static/icons/4/ic_cancel.png",
+                          "image_color": "ERROR_PRIMARY",
+                          "has_divider": true,
+                          "icon": {
+                            "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/error_primary/cancel.png",
+                            "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/error_primary/cancel.png",
+                            "icon_name": "CANCEL",
+                            "icon_color": "ERROR_PRIMARY"
+                          }
+                        }
+                      },
+                      {
+                        "widget_type": "FEATURE_ROW",
+                        "data": {
+                          "title": "رنگ شدگی ندارد.",
+                          "image_url": "https://s100.divarcdn.com/static/icons/4/ic_check_circle.png",
+                          "image_color": "SUCCESS_PRIMARY",
+                          "has_divider": true,
+                          "icon": {
+                            "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/success_primary/check_circle.png",
+                            "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/success_primary/check_circle.png",
+                            "icon_name": "CHECK_CIRCLE",
+                            "icon_color": "SUCCESS_PRIMARY"
+                          }
+                        }
+                      }
+                    ],
+                    "slug": "Z2VsZ2lyX2pvbG9fY2hhcA=="
+                  }
+                },
+                "icon": {
+                  "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/success_secondary/check_circle.png",
+                  "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/success_secondary/check_circle.png",
+                  "icon_name": "CHECK_CIRCLE",
+                  "icon_color": "SUCCESS_SECONDARY"
+                }
+              }
+            },
+            {
+              "widget_type": "IMAGE_CAROUSEL_ROW",
+              "data": {
+                "items": [
+                  {
+                    "image_url": "https://s100.divarcdn.com/static/images/carinspection/gPYlWPsDtcXJzSYkWxI6Cg.jpg"
+                  }
+                ]
+              }
+            },
+            {
+              "widget_type": "TITLE_ROW",
+              "data": {
+                "text": "ستون‌ها",
+                "has_divider": true,
+                "text_color": "TEXT_PRIMARY"
+              }
+            },
+            {
+              "widget_type": "FEATURE_ROW",
+              "data": {
+                "title": "سمت راننده جلو",
+                "image_url": "https://s100.divarcdn.com/static/icons/4/ic_check_circle.png",
+                "image_color": "SUCCESS_PRIMARY",
+                "has_divider": true,
+                "icon": {
+                  "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/success_primary/check_circle.png",
+                  "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/success_primary/check_circle.png",
+                  "icon_name": "CHECK_CIRCLE",
+                  "icon_color": "SUCCESS_PRIMARY"
+                }
+              }
+            },
+            {
+              "widget_type": "FEATURE_ROW",
+              "data": {
+                "title": "سمت راننده - وسط",
+                "image_url": "https://s100.divarcdn.com/static/icons/4/ic_check_circle.png",
+                "image_color": "SUCCESS_PRIMARY",
+                "has_divider": true,
+                "icon": {
+                  "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/success_primary/check_circle.png",
+                  "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/success_primary/check_circle.png",
+                  "icon_name": "CHECK_CIRCLE",
+                  "icon_color": "SUCCESS_PRIMARY"
+                }
+              }
+            },
+            {
+              "widget_type": "FEATURE_ROW",
+              "data": {
+                "title": "سمت راننده عقب",
+                "image_url": "https://s100.divarcdn.com/static/icons/4/ic_check_circle.png",
+                "image_color": "SUCCESS_PRIMARY",
+                "has_divider": true,
+                "icon": {
+                  "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/success_primary/check_circle.png",
+                  "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/success_primary/check_circle.png",
+                  "icon_name": "CHECK_CIRCLE",
+                  "icon_color": "SUCCESS_PRIMARY"
+                }
+              }
+            },
+            {
+              "widget_type": "FEATURE_ROW",
+              "data": {
+                "title": "سمت سرنشین عقب",
+                "image_url": "https://s100.divarcdn.com/static/icons/4/ic_check_circle.png",
+                "image_color": "SUCCESS_PRIMARY",
+                "has_divider": true,
+                "icon": {
+                  "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/success_primary/check_circle.png",
+                  "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/success_primary/check_circle.png",
+                  "icon_name": "CHECK_CIRCLE",
+                  "icon_color": "SUCCESS_PRIMARY"
+                }
+              }
+            },
+            {
+              "widget_type": "FEATURE_ROW",
+              "data": {
+                "title": "سمت سرنشین - وسط",
+                "image_url": "https://s100.divarcdn.com/static/icons/4/ic_check_circle.png",
+                "image_color": "SUCCESS_PRIMARY",
+                "has_divider": true,
+                "icon": {
+                  "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/success_primary/check_circle.png",
+                  "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/success_primary/check_circle.png",
+                  "icon_name": "CHECK_CIRCLE",
+                  "icon_color": "SUCCESS_PRIMARY"
+                }
+              }
+            },
+            {
+              "widget_type": "FEATURE_ROW",
+              "data": {
+                "title": "سمت سرنشین جلو",
+                "image_url": "https://s100.divarcdn.com/static/icons/4/ic_check_circle.png",
+                "image_color": "SUCCESS_PRIMARY",
+                "has_divider": true,
+                "icon": {
+                  "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/success_primary/check_circle.png",
+                  "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/success_primary/check_circle.png",
+                  "icon_name": "CHECK_CIRCLE",
+                  "icon_color": "SUCCESS_PRIMARY"
+                }
+              }
+            },
+            {
+              "widget_type": "TITLE_ROW",
+              "data": {
+                "text": "رکاب‌ها",
+                "has_divider": true,
+                "text_color": "TEXT_PRIMARY"
+              }
+            },
+            {
+              "widget_type": "FEATURE_ROW",
+              "data": {
+                "title": "وضعیت سمت راننده نامشخص",
+                "image_url": "https://s100.divarcdn.com/static/icons/4/ic_help.png",
+                "image_color": "ICON_HINT",
+                "has_divider": true,
+                "icon": {
+                  "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_hint/help.png",
+                  "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_hint/help.png",
+                  "icon_name": "HELP",
+                  "icon_color": "ICON_HINT"
+                }
+              }
+            },
+            {
+              "widget_type": "FEATURE_ROW",
+              "data": {
+                "title": "وضعیت سمت سرنشین نامشخص",
+                "image_url": "https://s100.divarcdn.com/static/icons/4/ic_help.png",
+                "image_color": "ICON_HINT",
+                "has_divider": true,
+                "icon": {
+                  "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_hint/help.png",
+                  "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_hint/help.png",
+                  "icon_name": "HELP",
+                  "icon_color": "ICON_HINT"
+                }
+              }
+            },
+            {
+              "widget_type": "TITLE_ROW",
+              "data": {
+                "text": "سرشاسی‌ها",
+                "has_divider": true,
+                "text_color": "TEXT_PRIMARY"
+              }
+            },
+            {
+              "widget_type": "FEATURE_ROW",
+              "data": {
+                "title": "سمت راننده جلو",
+                "image_url": "https://s100.divarcdn.com/static/icons/4/ic_check_circle.png",
+                "image_color": "SUCCESS_PRIMARY",
+                "has_divider": true,
+                "icon": {
+                  "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/success_primary/check_circle.png",
+                  "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/success_primary/check_circle.png",
+                  "icon_name": "CHECK_CIRCLE",
+                  "icon_color": "SUCCESS_PRIMARY"
+                }
+              }
+            },
+            {
+              "widget_type": "FEATURE_ROW",
+              "data": {
+                "title": "سمت راننده عقب",
+                "image_url": "https://s100.divarcdn.com/static/icons/4/ic_check_circle.png",
+                "image_color": "SUCCESS_PRIMARY",
+                "has_divider": true,
+                "icon": {
+                  "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/success_primary/check_circle.png",
+                  "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/success_primary/check_circle.png",
+                  "icon_name": "CHECK_CIRCLE",
+                  "icon_color": "SUCCESS_PRIMARY"
+                }
+              }
+            },
+            {
+              "widget_type": "FEATURE_ROW",
+              "data": {
+                "title": "سمت سرنشین عقب",
+                "image_url": "https://s100.divarcdn.com/static/icons/4/ic_check_circle.png",
+                "image_color": "SUCCESS_PRIMARY",
+                "has_divider": true,
+                "icon": {
+                  "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/success_primary/check_circle.png",
+                  "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/success_primary/check_circle.png",
+                  "icon_name": "CHECK_CIRCLE",
+                  "icon_color": "SUCCESS_PRIMARY"
+                }
+              }
+            },
+            {
+              "widget_type": "FEATURE_ROW",
+              "data": {
+                "title": "سمت سرنشین جلو",
+                "image_url": "https://s100.divarcdn.com/static/icons/4/ic_check_circle.png",
+                "image_color": "SUCCESS_PRIMARY",
+                "has_divider": true,
+                "icon": {
+                  "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/success_primary/check_circle.png",
+                  "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/success_primary/check_circle.png",
+                  "icon_name": "CHECK_CIRCLE",
+                  "icon_color": "SUCCESS_PRIMARY"
+                }
+              }
+            },
+            {
+              "widget_type": "TITLE_ROW",
+              "data": {
+                "text": "محوطه و سینی",
+                "has_divider": true,
+                "text_color": "TEXT_PRIMARY"
+              }
+            },
+            {
+              "widget_type": "FEATURE_ROW",
+              "data": {
+                "title": "محوطه موتور و سینی جلو",
+                "image_url": "https://s100.divarcdn.com/static/icons/4/ic_check_circle.png",
+                "image_color": "SUCCESS_PRIMARY",
+                "has_divider": true,
+                "icon": {
+                  "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/success_primary/check_circle.png",
+                  "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/success_primary/check_circle.png",
+                  "icon_name": "CHECK_CIRCLE",
+                  "icon_color": "SUCCESS_PRIMARY"
+                }
+              }
+            },
+            {
+              "widget_type": "FEATURE_ROW",
+              "data": {
+                "title": "محوطه صندوق و سینی عقب",
+                "image_url": "https://s100.divarcdn.com/static/icons/4/ic_check_circle.png",
+                "image_color": "SUCCESS_PRIMARY",
+                "has_divider": true,
+                "icon": {
+                  "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/success_primary/check_circle.png",
+                  "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/success_primary/check_circle.png",
+                  "icon_name": "CHECK_CIRCLE",
+                  "icon_color": "SUCCESS_PRIMARY"
+                }
+              }
+            },
+            {
+              "widget_type": "FEATURE_ROW",
+              "data": {
+                "title": "محوطه چرخ زاپاس",
+                "image_url": "https://s100.divarcdn.com/static/icons/4/ic_check_circle.png",
+                "image_color": "SUCCESS_PRIMARY",
+                "has_divider": true,
+                "icon": {
+                  "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/success_primary/check_circle.png",
+                  "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/success_primary/check_circle.png",
+                  "icon_name": "CHECK_CIRCLE",
+                  "icon_color": "SUCCESS_PRIMARY"
+                }
+              }
+            },
+            {
+              "widget_type": "TITLE_ROW",
+              "data": {
+                "text": "سپرها",
+                "has_divider": true,
+                "text_color": "TEXT_PRIMARY"
+              }
+            },
+            {
+              "widget_type": "SCORE_ROW",
+              "data": {
+                "title": "سپر جلو",
+                "descriptive_score": "",
+                "score_color": "SUCCESS_SECONDARY",
+                "image_url": "https://s100.divarcdn.com/static/icons/4/ic_warning.png",
+                "image_color": "WARNING_PRIMARY",
+                "action": {
+                  "type": "LOAD_PAGE",
+                  "payload": {
+                    "title": "سپر جلو",
+                    "widget_list": [
+                      {
+                        "widget_type": "LEGEND_TITLE_ROW",
+                        "data": {
+                          "title": "سپر جلو",
+                          "show_thumbnail": true
+                        }
+                      },
+                      {
+                        "widget_type": "FEATURE_ROW",
+                        "data": {
+                          "title": "سلامت ظاهری ندارد.",
+                          "image_url": "https://s100.divarcdn.com/static/icons/4/ic_cancel.png",
+                          "image_color": "ERROR_PRIMARY",
+                          "has_divider": true,
+                          "icon": {
+                            "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/error_primary/cancel.png",
+                            "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/error_primary/cancel.png",
+                            "icon_name": "CANCEL",
+                            "icon_color": "ERROR_PRIMARY"
+                          }
+                        }
+                      },
+                      {
+                        "widget_type": "FEATURE_ROW",
+                        "data": {
+                          "title": "خط و خش، قلم گیری و رنگ شدگی ندارد.",
+                          "image_url": "https://s100.divarcdn.com/static/icons/4/ic_check_circle.png",
+                          "image_color": "SUCCESS_PRIMARY",
+                          "has_divider": true,
+                          "icon": {
+                            "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/success_primary/check_circle.png",
+                            "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/success_primary/check_circle.png",
+                            "icon_name": "CHECK_CIRCLE",
+                            "icon_color": "SUCCESS_PRIMARY"
+                          }
+                        }
+                      }
+                    ],
+                    "slug": "c2VwYXJfam9sbw=="
+                  }
+                },
+                "has_divider": true,
+                "icon": {
+                  "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/warning_primary/warning.png",
+                  "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/warning_primary/warning.png",
+                  "icon_name": "WARNING",
+                  "icon_color": "WARNING_PRIMARY"
+                }
+              }
+            },
+            {
+              "widget_type": "SCORE_ROW",
+              "data": {
+                "title": "سپر عقب",
+                "descriptive_score": "",
+                "score_color": "SUCCESS_SECONDARY",
+                "image_url": "https://s100.divarcdn.com/static/icons/4/ic_warning.png",
+                "image_color": "WARNING_PRIMARY",
+                "action": {
+                  "type": "LOAD_PAGE",
+                  "payload": {
+                    "title": "سپر عقب",
+                    "widget_list": [
+                      {
+                        "widget_type": "LEGEND_TITLE_ROW",
+                        "data": {
+                          "title": "سپر عقب",
+                          "show_thumbnail": true
+                        }
+                      },
+                      {
+                        "widget_type": "FEATURE_ROW",
+                        "data": {
+                          "title": "سلامت ظاهری دارد.",
+                          "image_url": "https://s100.divarcdn.com/static/icons/4/ic_check_circle.png",
+                          "image_color": "SUCCESS_PRIMARY",
+                          "has_divider": true,
+                          "icon": {
+                            "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/success_primary/check_circle.png",
+                            "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/success_primary/check_circle.png",
+                            "icon_name": "CHECK_CIRCLE",
+                            "icon_color": "SUCCESS_PRIMARY"
+                          }
+                        }
+                      },
+                      {
+                        "widget_type": "FEATURE_ROW",
+                        "data": {
+                          "title": "خط و خش، قلم گیری یا رنگ شدگی دارد.",
+                          "image_url": "https://s100.divarcdn.com/static/icons/4/ic_cancel.png",
+                          "image_color": "ERROR_PRIMARY",
+                          "has_divider": true,
+                          "icon": {
+                            "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/error_primary/cancel.png",
+                            "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/error_primary/cancel.png",
+                            "icon_name": "CANCEL",
+                            "icon_color": "ERROR_PRIMARY"
+                          }
+                        }
+                      }
+                    ],
+                    "slug": "c2VwYXJfYWdoYWI="
+                  }
+                },
+                "has_divider": true,
+                "icon": {
+                  "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/warning_primary/warning.png",
+                  "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/warning_primary/warning.png",
+                  "icon_name": "WARNING",
+                  "icon_color": "WARNING_PRIMARY"
+                }
+              }
+            },
+            {
+              "widget_type": "TITLE_ROW",
+              "data": {
+                "text": "شیشه‌ها",
+                "has_divider": true,
+                "text_color": "TEXT_PRIMARY"
+              }
+            },
+            {
+              "widget_type": "FEATURE_ROW",
+              "data": {
+                "title": "جلو",
+                "image_url": "https://s100.divarcdn.com/static/icons/4/ic_check_circle.png",
+                "image_color": "SUCCESS_PRIMARY",
+                "has_divider": true,
+                "icon": {
+                  "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/success_primary/check_circle.png",
+                  "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/success_primary/check_circle.png",
+                  "icon_name": "CHECK_CIRCLE",
+                  "icon_color": "SUCCESS_PRIMARY"
+                }
+              }
+            },
+            {
+              "widget_type": "FEATURE_ROW",
+              "data": {
+                "title": "سمت راننده جلو",
+                "image_url": "https://s100.divarcdn.com/static/icons/4/ic_check_circle.png",
+                "image_color": "SUCCESS_PRIMARY",
+                "has_divider": true,
+                "icon": {
+                  "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/success_primary/check_circle.png",
+                  "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/success_primary/check_circle.png",
+                  "icon_name": "CHECK_CIRCLE",
+                  "icon_color": "SUCCESS_PRIMARY"
+                }
+              }
+            },
+            {
+              "widget_type": "FEATURE_ROW",
+              "data": {
+                "title": "سمت راننده عقب",
+                "image_url": "https://s100.divarcdn.com/static/icons/4/ic_check_circle.png",
+                "image_color": "SUCCESS_PRIMARY",
+                "has_divider": true,
+                "icon": {
+                  "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/success_primary/check_circle.png",
+                  "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/success_primary/check_circle.png",
+                  "icon_name": "CHECK_CIRCLE",
+                  "icon_color": "SUCCESS_PRIMARY"
+                }
+              }
+            },
+            {
+              "widget_type": "FEATURE_ROW",
+              "data": {
+                "title": "عقب",
+                "image_url": "https://s100.divarcdn.com/static/icons/4/ic_check_circle.png",
+                "image_color": "SUCCESS_PRIMARY",
+                "has_divider": true,
+                "icon": {
+                  "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/success_primary/check_circle.png",
+                  "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/success_primary/check_circle.png",
+                  "icon_name": "CHECK_CIRCLE",
+                  "icon_color": "SUCCESS_PRIMARY"
+                }
+              }
+            },
+            {
+              "widget_type": "FEATURE_ROW",
+              "data": {
+                "title": "سمت سرنشین عقب",
+                "image_url": "https://s100.divarcdn.com/static/icons/4/ic_check_circle.png",
+                "image_color": "SUCCESS_PRIMARY",
+                "has_divider": true,
+                "icon": {
+                  "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/success_primary/check_circle.png",
+                  "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/success_primary/check_circle.png",
+                  "icon_name": "CHECK_CIRCLE",
+                  "icon_color": "SUCCESS_PRIMARY"
+                }
+              }
+            },
+            {
+              "widget_type": "FEATURE_ROW",
+              "data": {
+                "title": "سمت سرنشین جلو",
+                "image_url": "https://s100.divarcdn.com/static/icons/4/ic_check_circle.png",
+                "image_color": "SUCCESS_PRIMARY",
+                "has_divider": true,
+                "icon": {
+                  "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/success_primary/check_circle.png",
+                  "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/success_primary/check_circle.png",
+                  "icon_name": "CHECK_CIRCLE",
+                  "icon_color": "SUCCESS_PRIMARY"
+                }
+              }
+            }
+          ],
+          "slug": "YmFkYW5l"
+        }
+      },
+      "has_divider": true,
+      "icon": {
+        "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/car_body.png",
+        "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/car_body.png",
+        "icon_name": "CAR_BODY",
+        "icon_color": "ICON_SECONDARY"
+      }
+    }
+  },
+  {
+    "widget_type": "SCORE_ROW",
+    "data": {
+      "title": "لاستیک و رینگ‌ها",
+      "percentage_score": 60,
+      "score_color": "WARNING_SECONDARY",
+      "image_url": "https://s100.divarcdn.com/static/icons/4/ic_car_tires.png",
+      "image_color": "ICON_SECONDARY",
+      "action": {
+        "type": "LOAD_PAGE",
+        "payload": {
+          "widget_list": [
+            {
+              "widget_type": "LEGEND_TITLE_ROW",
+              "data": {
+                "title": "لاستیک و رینگ‌ها",
+                "show_thumbnail": true
+              }
+            },
+            {
+              "widget_type": "TITLE_ROW",
+              "data": {
+                "text": "سمت راننده جلو",
+                "has_divider": true,
+                "text_color": "TEXT_PRIMARY"
+              }
+            },
+            {
+              "widget_type": "SCORE_ROW",
+              "data": {
+                "title": "درصد",
+                "descriptive_score": "۹۰٪",
+                "score_color": "SUCCESS_PRIMARY",
+                "image_url": "",
+                "image_color": "ICON_SECONDARY",
+                "has_divider": true,
+                "icon": {}
+              }
+            },
+            {
+              "widget_type": "SCORE_ROW",
+              "data": {
+                "title": "رینگ",
+                "descriptive_score": "سلامت ظاهری دارد",
+                "score_color": "TEXT_SECONDARY",
+                "image_url": "",
+                "image_color": "ICON_SECONDARY",
+                "has_divider": true,
+                "icon": {}
+              }
+            },
+            {
+              "widget_type": "TITLE_ROW",
+              "data": {
+                "text": "سمت راننده عقب",
+                "has_divider": true,
+                "text_color": "TEXT_PRIMARY"
+              }
+            },
+            {
+              "widget_type": "SCORE_ROW",
+              "data": {
+                "title": "درصد",
+                "descriptive_score": "۶۰٪",
+                "score_color": "WARNING_SECONDARY",
+                "image_url": "",
+                "image_color": "ICON_SECONDARY",
+                "has_divider": true,
+                "icon": {}
+              }
+            },
+            {
+              "widget_type": "SCORE_ROW",
+              "data": {
+                "title": "رینگ",
+                "descriptive_score": "سلامت ظاهری دارد",
+                "score_color": "TEXT_SECONDARY",
+                "image_url": "",
+                "image_color": "ICON_SECONDARY",
+                "has_divider": true,
+                "icon": {}
+              }
+            },
+            {
+              "widget_type": "TITLE_ROW",
+              "data": {
+                "text": "سمت سرنشین جلو",
+                "has_divider": true,
+                "text_color": "TEXT_PRIMARY"
+              }
+            },
+            {
+              "widget_type": "SCORE_ROW",
+              "data": {
+                "title": "درصد",
+                "descriptive_score": "۹۰٪",
+                "score_color": "SUCCESS_PRIMARY",
+                "image_url": "",
+                "image_color": "ICON_SECONDARY",
+                "has_divider": true,
+                "icon": {}
+              }
+            },
+            {
+              "widget_type": "SCORE_ROW",
+              "data": {
+                "title": "رینگ",
+                "descriptive_score": "سلامت ظاهری دارد",
+                "score_color": "TEXT_SECONDARY",
+                "image_url": "",
+                "image_color": "ICON_SECONDARY",
+                "has_divider": true,
+                "icon": {}
+              }
+            },
+            {
+              "widget_type": "TITLE_ROW",
+              "data": {
+                "text": "سمت سرنشین عقب",
+                "has_divider": true,
+                "text_color": "TEXT_PRIMARY"
+              }
+            },
+            {
+              "widget_type": "SCORE_ROW",
+              "data": {
+                "title": "درصد",
+                "descriptive_score": "۶۰٪",
+                "score_color": "WARNING_SECONDARY",
+                "image_url": "",
+                "image_color": "ICON_SECONDARY",
+                "has_divider": true,
+                "icon": {}
+              }
+            },
+            {
+              "widget_type": "SCORE_ROW",
+              "data": {
+                "title": "رینگ",
+                "descriptive_score": "سلامت ظاهری دارد",
+                "score_color": "TEXT_SECONDARY",
+                "image_url": "",
+                "image_color": "ICON_SECONDARY",
+                "has_divider": true,
+                "icon": {}
+              }
+            },
+            {
+              "widget_type": "TITLE_ROW",
+              "data": {
+                "text": "زاپاس",
+                "has_divider": true,
+                "text_color": "TEXT_PRIMARY"
+              }
+            },
+            {
+              "widget_type": "SCORE_ROW",
+              "data": {
+                "title": "وضعیت",
+                "descriptive_score": "امکان بررسی وجود ندارد",
+                "score_color": "TEXT_SECONDARY",
+                "image_url": "",
+                "image_color": "ICON_SECONDARY",
+                "has_divider": true,
+                "icon": {}
+              }
+            }
+          ],
+          "slug": "bGFzdGlraGE="
+        }
+      },
+      "has_divider": true,
+      "icon": {
+        "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/car_tires.png",
+        "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/car_tires.png",
+        "icon_name": "CAR_TIRES",
+        "icon_color": "ICON_SECONDARY"
+      }
+    }
+  },
+  {
+    "widget_type": "SCORE_ROW",
+    "data": {
+      "title": "فضای داخل و تجهیزات",
+      "percentage_score": 100,
+      "score_color": "SUCCESS_PRIMARY",
+      "image_url": "https://s100.divarcdn.com/static/icons/4/ic_car_electronics.png",
+      "image_color": "ICON_SECONDARY",
+      "action": {
+        "type": "LOAD_PAGE",
+        "payload": {
+          "title": "فضای داخل و تجهیزات",
+          "widget_list": [
+            {
+              "widget_type": "LEGEND_TITLE_ROW",
+              "data": {
+                "title": "فضای داخل و تجهیزات",
+                "show_thumbnail": true
+              }
+            },
+            {
+              "widget_type": "TITLE_ROW",
+              "data": {
+                "text": "صندلی‌ها",
+                "has_divider": true,
+                "text_color": "TEXT_PRIMARY"
+              }
+            },
+            {
+              "widget_type": "FEATURE_ROW",
+              "data": {
+                "title": "صندلی، تجهیزات‌ و تریم‌ سمت راننده",
+                "image_url": "https://s100.divarcdn.com/static/icons/4/ic_check_circle.png",
+                "image_color": "SUCCESS_PRIMARY",
+                "has_divider": true,
+                "icon": {
+                  "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/success_primary/check_circle.png",
+                  "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/success_primary/check_circle.png",
+                  "icon_name": "CHECK_CIRCLE",
+                  "icon_color": "SUCCESS_PRIMARY"
+                }
+              }
+            },
+            {
+              "widget_type": "FEATURE_ROW",
+              "data": {
+                "title": "صندلی، تجهیزات‌ و تریم‌ سمت سرنشین",
+                "image_url": "https://s100.divarcdn.com/static/icons/4/ic_check_circle.png",
+                "image_color": "SUCCESS_PRIMARY",
+                "has_divider": true,
+                "icon": {
+                  "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/success_primary/check_circle.png",
+                  "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/success_primary/check_circle.png",
+                  "icon_name": "CHECK_CIRCLE",
+                  "icon_color": "SUCCESS_PRIMARY"
+                }
+              }
+            },
+            {
+              "widget_type": "FEATURE_ROW",
+              "data": {
+                "title": "داشبورد",
+                "image_url": "https://s100.divarcdn.com/static/icons/4/ic_check_circle.png",
+                "image_color": "SUCCESS_PRIMARY",
+                "has_divider": true,
+                "icon": {
+                  "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/success_primary/check_circle.png",
+                  "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/success_primary/check_circle.png",
+                  "icon_name": "CHECK_CIRCLE",
+                  "icon_color": "SUCCESS_PRIMARY"
+                }
+              }
+            },
+            {
+              "widget_type": "FEATURE_ROW",
+              "data": {
+                "title": "صندلی‌، تجهیزات و تریم‌های عقب",
+                "image_url": "https://s100.divarcdn.com/static/icons/4/ic_check_circle.png",
+                "image_color": "SUCCESS_PRIMARY",
+                "has_divider": true,
+                "icon": {
+                  "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/success_primary/check_circle.png",
+                  "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/success_primary/check_circle.png",
+                  "icon_name": "CHECK_CIRCLE",
+                  "icon_color": "SUCCESS_PRIMARY"
+                }
+              }
+            },
+            {
+              "widget_type": "TITLE_ROW",
+              "data": {
+                "text": "برف‌پاک‌کن",
+                "has_divider": true,
+                "text_color": "TEXT_PRIMARY"
+              }
+            },
+            {
+              "widget_type": "FEATURE_ROW",
+              "data": {
+                "title": "برف‌پاک‌کن جلو",
+                "image_url": "https://s100.divarcdn.com/static/icons/4/ic_check_circle.png",
+                "image_color": "SUCCESS_PRIMARY",
+                "has_divider": true,
+                "icon": {
+                  "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/success_primary/check_circle.png",
+                  "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/success_primary/check_circle.png",
+                  "icon_name": "CHECK_CIRCLE",
+                  "icon_color": "SUCCESS_PRIMARY"
+                }
+              }
+            },
+            {
+              "widget_type": "FEATURE_ROW",
+              "data": {
+                "title": "برف‌پاک‌کن عقب",
+                "image_url": "https://s100.divarcdn.com/static/icons/4/ic_check_circle.png",
+                "image_color": "SUCCESS_PRIMARY",
+                "has_divider": true,
+                "icon": {
+                  "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/success_primary/check_circle.png",
+                  "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/success_primary/check_circle.png",
+                  "icon_name": "CHECK_CIRCLE",
+                  "icon_color": "SUCCESS_PRIMARY"
+                }
+              }
+            },
+            {
+              "widget_type": "TITLE_ROW",
+              "data": {
+                "text": "شیشه‌بالابر(برقی-مکانیکی)",
+                "has_divider": true,
+                "text_color": "TEXT_PRIMARY"
+              }
+            },
+            {
+              "widget_type": "FEATURE_ROW",
+              "data": {
+                "title": "سمت راننده جلو",
+                "image_url": "https://s100.divarcdn.com/static/icons/4/ic_check_circle.png",
+                "image_color": "SUCCESS_PRIMARY",
+                "has_divider": true,
+                "icon": {
+                  "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/success_primary/check_circle.png",
+                  "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/success_primary/check_circle.png",
+                  "icon_name": "CHECK_CIRCLE",
+                  "icon_color": "SUCCESS_PRIMARY"
+                }
+              }
+            },
+            {
+              "widget_type": "FEATURE_ROW",
+              "data": {
+                "title": "سمت راننده عقب",
+                "image_url": "https://s100.divarcdn.com/static/icons/4/ic_check_circle.png",
+                "image_color": "SUCCESS_PRIMARY",
+                "has_divider": true,
+                "icon": {
+                  "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/success_primary/check_circle.png",
+                  "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/success_primary/check_circle.png",
+                  "icon_name": "CHECK_CIRCLE",
+                  "icon_color": "SUCCESS_PRIMARY"
+                }
+              }
+            },
+            {
+              "widget_type": "FEATURE_ROW",
+              "data": {
+                "title": "سمت سرنشین عقب",
+                "image_url": "https://s100.divarcdn.com/static/icons/4/ic_check_circle.png",
+                "image_color": "SUCCESS_PRIMARY",
+                "has_divider": true,
+                "icon": {
+                  "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/success_primary/check_circle.png",
+                  "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/success_primary/check_circle.png",
+                  "icon_name": "CHECK_CIRCLE",
+                  "icon_color": "SUCCESS_PRIMARY"
+                }
+              }
+            },
+            {
+              "widget_type": "FEATURE_ROW",
+              "data": {
+                "title": "سمت سرنشین جلو",
+                "image_url": "https://s100.divarcdn.com/static/icons/4/ic_check_circle.png",
+                "image_color": "SUCCESS_PRIMARY",
+                "has_divider": true,
+                "icon": {
+                  "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/success_primary/check_circle.png",
+                  "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/success_primary/check_circle.png",
+                  "icon_name": "CHECK_CIRCLE",
+                  "icon_color": "SUCCESS_PRIMARY"
+                }
+              }
+            },
+            {
+              "widget_type": "TITLE_ROW",
+              "data": {
+                "text": "آینه‌ها",
+                "has_divider": true,
+                "text_color": "TEXT_PRIMARY"
+              }
+            },
+            {
+              "widget_type": "FEATURE_ROW",
+              "data": {
+                "title": "سمت راننده",
+                "image_url": "https://s100.divarcdn.com/static/icons/4/ic_check_circle.png",
+                "image_color": "SUCCESS_PRIMARY",
+                "has_divider": true,
+                "icon": {
+                  "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/success_primary/check_circle.png",
+                  "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/success_primary/check_circle.png",
+                  "icon_name": "CHECK_CIRCLE",
+                  "icon_color": "SUCCESS_PRIMARY"
+                }
+              }
+            },
+            {
+              "widget_type": "FEATURE_ROW",
+              "data": {
+                "title": "سمت سرنشین",
+                "image_url": "https://s100.divarcdn.com/static/icons/4/ic_check_circle.png",
+                "image_color": "SUCCESS_PRIMARY",
+                "has_divider": true,
+                "icon": {
+                  "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/success_primary/check_circle.png",
+                  "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/success_primary/check_circle.png",
+                  "icon_name": "CHECK_CIRCLE",
+                  "icon_color": "SUCCESS_PRIMARY"
+                }
+              }
+            },
+            {
+              "widget_type": "FEATURE_ROW",
+              "data": {
+                "title": "دید عقب",
+                "image_url": "https://s100.divarcdn.com/static/icons/4/ic_check_circle.png",
+                "image_color": "SUCCESS_PRIMARY",
+                "has_divider": true,
+                "icon": {
+                  "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/success_primary/check_circle.png",
+                  "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/success_primary/check_circle.png",
+                  "icon_name": "CHECK_CIRCLE",
+                  "icon_color": "SUCCESS_PRIMARY"
+                }
+              }
+            },
+            {
+              "widget_type": "TITLE_ROW",
+              "data": {
+                "text": "چراغ‌ها و تجهیزات روشنایی",
+                "has_divider": true,
+                "text_color": "TEXT_PRIMARY"
+              }
+            },
+            {
+              "widget_type": "FEATURE_ROW",
+              "data": {
+                "title": "سمت راننده جلو",
+                "image_url": "https://s100.divarcdn.com/static/icons/4/ic_check_circle.png",
+                "image_color": "SUCCESS_PRIMARY",
+                "has_divider": true,
+                "icon": {
+                  "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/success_primary/check_circle.png",
+                  "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/success_primary/check_circle.png",
+                  "icon_name": "CHECK_CIRCLE",
+                  "icon_color": "SUCCESS_PRIMARY"
+                }
+              }
+            },
+            {
+              "widget_type": "FEATURE_ROW",
+              "data": {
+                "title": "سمت سرنشین جلو",
+                "image_url": "https://s100.divarcdn.com/static/icons/4/ic_check_circle.png",
+                "image_color": "SUCCESS_PRIMARY",
+                "has_divider": true,
+                "icon": {
+                  "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/success_primary/check_circle.png",
+                  "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/success_primary/check_circle.png",
+                  "icon_name": "CHECK_CIRCLE",
+                  "icon_color": "SUCCESS_PRIMARY"
+                }
+              }
+            },
+            {
+              "widget_type": "FEATURE_ROW",
+              "data": {
+                "title": "تجهیزات روشنایی جلو",
+                "image_url": "https://s100.divarcdn.com/static/icons/4/ic_check_circle.png",
+                "image_color": "SUCCESS_PRIMARY",
+                "has_divider": true,
+                "icon": {
+                  "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/success_primary/check_circle.png",
+                  "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/success_primary/check_circle.png",
+                  "icon_name": "CHECK_CIRCLE",
+                  "icon_color": "SUCCESS_PRIMARY"
+                }
+              }
+            },
+            {
+              "widget_type": "FEATURE_ROW",
+              "data": {
+                "title": "سمت راننده عقب",
+                "image_url": "https://s100.divarcdn.com/static/icons/4/ic_check_circle.png",
+                "image_color": "SUCCESS_PRIMARY",
+                "has_divider": true,
+                "icon": {
+                  "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/success_primary/check_circle.png",
+                  "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/success_primary/check_circle.png",
+                  "icon_name": "CHECK_CIRCLE",
+                  "icon_color": "SUCCESS_PRIMARY"
+                }
+              }
+            },
+            {
+              "widget_type": "FEATURE_ROW",
+              "data": {
+                "title": "سمت سرنشین عقب",
+                "image_url": "https://s100.divarcdn.com/static/icons/4/ic_check_circle.png",
+                "image_color": "SUCCESS_PRIMARY",
+                "has_divider": true,
+                "icon": {
+                  "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/success_primary/check_circle.png",
+                  "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/success_primary/check_circle.png",
+                  "icon_name": "CHECK_CIRCLE",
+                  "icon_color": "SUCCESS_PRIMARY"
+                }
+              }
+            },
+            {
+              "widget_type": "FEATURE_ROW",
+              "data": {
+                "title": "تجهیزات روشنایی عقب",
+                "image_url": "https://s100.divarcdn.com/static/icons/4/ic_check_circle.png",
+                "image_color": "SUCCESS_PRIMARY",
+                "has_divider": true,
+                "icon": {
+                  "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/success_primary/check_circle.png",
+                  "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/success_primary/check_circle.png",
+                  "icon_name": "CHECK_CIRCLE",
+                  "icon_color": "SUCCESS_PRIMARY"
+                }
+              }
+            },
+            {
+              "widget_type": "FEATURE_ROW",
+              "data": {
+                "title": "داخل خودرو",
+                "image_url": "https://s100.divarcdn.com/static/icons/4/ic_check_circle.png",
+                "image_color": "SUCCESS_PRIMARY",
+                "has_divider": true,
+                "icon": {
+                  "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/success_primary/check_circle.png",
+                  "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/success_primary/check_circle.png",
+                  "icon_name": "CHECK_CIRCLE",
+                  "icon_color": "SUCCESS_PRIMARY"
+                }
+              }
+            },
+            {
+              "widget_type": "TITLE_ROW",
+              "data": {
+                "text": "قفل، دستگیره و سیستم ضدسرقت",
+                "has_divider": true,
+                "text_color": "TEXT_PRIMARY"
+              }
+            },
+            {
+              "widget_type": "FEATURE_ROW",
+              "data": {
+                "title": "قفل مرکزی، دزدگیر و سیستم ضد سرقت",
+                "image_url": "https://s100.divarcdn.com/static/icons/4/ic_check_circle.png",
+                "image_color": "SUCCESS_PRIMARY",
+                "has_divider": true,
+                "icon": {
+                  "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/success_primary/check_circle.png",
+                  "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/success_primary/check_circle.png",
+                  "icon_name": "CHECK_CIRCLE",
+                  "icon_color": "SUCCESS_PRIMARY"
+                }
+              }
+            },
+            {
+              "widget_type": "FEATURE_ROW",
+              "data": {
+                "title": "قفل یا دربازکن درب موتور",
+                "image_url": "https://s100.divarcdn.com/static/icons/4/ic_check_circle.png",
+                "image_color": "SUCCESS_PRIMARY",
+                "has_divider": true,
+                "icon": {
+                  "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/success_primary/check_circle.png",
+                  "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/success_primary/check_circle.png",
+                  "icon_name": "CHECK_CIRCLE",
+                  "icon_color": "SUCCESS_PRIMARY"
+                }
+              }
+            },
+            {
+              "widget_type": "FEATURE_ROW",
+              "data": {
+                "title": "قفل یا دستگیره درب سمت راننده جلو",
+                "image_url": "https://s100.divarcdn.com/static/icons/4/ic_check_circle.png",
+                "image_color": "SUCCESS_PRIMARY",
+                "has_divider": true,
+                "icon": {
+                  "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/success_primary/check_circle.png",
+                  "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/success_primary/check_circle.png",
+                  "icon_name": "CHECK_CIRCLE",
+                  "icon_color": "SUCCESS_PRIMARY"
+                }
+              }
+            },
+            {
+              "widget_type": "FEATURE_ROW",
+              "data": {
+                "title": "قفل یا دستگیره درب سمت راننده عقب",
+                "image_url": "https://s100.divarcdn.com/static/icons/4/ic_check_circle.png",
+                "image_color": "SUCCESS_PRIMARY",
+                "has_divider": true,
+                "icon": {
+                  "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/success_primary/check_circle.png",
+                  "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/success_primary/check_circle.png",
+                  "icon_name": "CHECK_CIRCLE",
+                  "icon_color": "SUCCESS_PRIMARY"
+                }
+              }
+            },
+            {
+              "widget_type": "FEATURE_ROW",
+              "data": {
+                "title": "قفل یا دربازکن صندوق عقب",
+                "image_url": "https://s100.divarcdn.com/static/icons/4/ic_check_circle.png",
+                "image_color": "SUCCESS_PRIMARY",
+                "has_divider": true,
+                "icon": {
+                  "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/success_primary/check_circle.png",
+                  "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/success_primary/check_circle.png",
+                  "icon_name": "CHECK_CIRCLE",
+                  "icon_color": "SUCCESS_PRIMARY"
+                }
+              }
+            },
+            {
+              "widget_type": "FEATURE_ROW",
+              "data": {
+                "title": "قفل یا دستگیره درب سمت سرنشین عقب",
+                "image_url": "https://s100.divarcdn.com/static/icons/4/ic_check_circle.png",
+                "image_color": "SUCCESS_PRIMARY",
+                "has_divider": true,
+                "icon": {
+                  "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/success_primary/check_circle.png",
+                  "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/success_primary/check_circle.png",
+                  "icon_name": "CHECK_CIRCLE",
+                  "icon_color": "SUCCESS_PRIMARY"
+                }
+              }
+            },
+            {
+              "widget_type": "FEATURE_ROW",
+              "data": {
+                "title": "قفل یا دستگیره درب سمت سرنشین جلو",
+                "image_url": "https://s100.divarcdn.com/static/icons/4/ic_check_circle.png",
+                "image_color": "SUCCESS_PRIMARY",
+                "has_divider": true,
+                "icon": {
+                  "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/success_primary/check_circle.png",
+                  "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/success_primary/check_circle.png",
+                  "icon_name": "CHECK_CIRCLE",
+                  "icon_color": "SUCCESS_PRIMARY"
+                }
+              }
+            },
+            {
+              "widget_type": "TITLE_ROW",
+              "data": {
+                "text": "سیستم تهویه",
+                "has_divider": true,
+                "text_color": "TEXT_PRIMARY"
+              }
+            },
+            {
+              "widget_type": "FEATURE_ROW",
+              "data": {
+                "title": "سرنشینان جلو",
+                "image_url": "https://s100.divarcdn.com/static/icons/4/ic_check_circle.png",
+                "image_color": "SUCCESS_PRIMARY",
+                "has_divider": true,
+                "icon": {
+                  "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/success_primary/check_circle.png",
+                  "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/success_primary/check_circle.png",
+                  "icon_name": "CHECK_CIRCLE",
+                  "icon_color": "SUCCESS_PRIMARY"
+                }
+              }
+            },
+            {
+              "widget_type": "TITLE_ROW",
+              "data": {
+                "text": "ایمنی",
+                "has_divider": true,
+                "text_color": "TEXT_PRIMARY"
+              }
+            },
+            {
+              "widget_type": "FEATURE_ROW",
+              "data": {
+                "title": "ایربگ‌ها",
+                "image_url": "https://s100.divarcdn.com/static/icons/4/ic_check_circle.png",
+                "image_color": "SUCCESS_PRIMARY",
+                "has_divider": true,
+                "icon": {
+                  "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/success_primary/check_circle.png",
+                  "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/success_primary/check_circle.png",
+                  "icon_name": "CHECK_CIRCLE",
+                  "icon_color": "SUCCESS_PRIMARY"
+                }
+              }
+            },
+            {
+              "widget_type": "FEATURE_ROW",
+              "data": {
+                "title": "کمربند",
+                "image_url": "https://s100.divarcdn.com/static/icons/4/ic_check_circle.png",
+                "image_color": "SUCCESS_PRIMARY",
+                "has_divider": true,
+                "icon": {
+                  "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/success_primary/check_circle.png",
+                  "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/success_primary/check_circle.png",
+                  "icon_name": "CHECK_CIRCLE",
+                  "icon_color": "SUCCESS_PRIMARY"
+                }
+              }
+            }
+          ],
+          "slug": "ZmF6YWllX2Rha2hlbF92YV90YWpoaXphdGVfYmFyZ2hp"
+        }
+      },
+      "has_divider": true,
+      "icon": {
+        "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/car_electronics.png",
+        "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/car_electronics.png",
+        "icon_name": "CAR_ELECTRONICS",
+        "icon_color": "ICON_SECONDARY"
+      }
+    }
+  },
+  {
+    "widget_type": "SCORE_ROW",
+    "data": {
+      "title": "موتور و انتقال قدرت",
+      "percentage_score": 100,
+      "score_color": "SUCCESS_PRIMARY",
+      "image_url": "https://s100.divarcdn.com/static/icons/4/ic_car_engine.png",
+      "image_color": "ICON_SECONDARY",
+      "action": {
+        "type": "LOAD_PAGE",
+        "payload": {
+          "title": "موتور و انتقال قدرت",
+          "widget_list": [
+            {
+              "widget_type": "LEGEND_TITLE_ROW",
+              "data": {
+                "title": "موتور و انتقال قدرت",
+                "show_thumbnail": true
+              }
+            },
+            {
+              "widget_type": "TITLE_ROW",
+              "data": {
+                "text": "آزمون رانندگی",
+                "has_divider": true,
+                "text_color": "TEXT_PRIMARY"
+              }
+            },
+            {
+              "widget_type": "FEATURE_ROW",
+              "data": {
+                "title": "شتابگیری",
+                "image_url": "https://s100.divarcdn.com/static/icons/4/ic_check_circle.png",
+                "image_color": "SUCCESS_PRIMARY",
+                "has_divider": true,
+                "icon": {
+                  "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/success_primary/check_circle.png",
+                  "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/success_primary/check_circle.png",
+                  "icon_name": "CHECK_CIRCLE",
+                  "icon_color": "SUCCESS_PRIMARY"
+                }
+              }
+            },
+            {
+              "widget_type": "FEATURE_ROW",
+              "data": {
+                "title": "گیربکس اتوماتیک",
+                "image_url": "https://s100.divarcdn.com/static/icons/4/ic_check_circle.png",
+                "image_color": "SUCCESS_PRIMARY",
+                "has_divider": true,
+                "icon": {
+                  "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/success_primary/check_circle.png",
+                  "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/success_primary/check_circle.png",
+                  "icon_name": "CHECK_CIRCLE",
+                  "icon_color": "SUCCESS_PRIMARY"
+                }
+              }
+            },
+            {
+              "widget_type": "FEATURE_ROW",
+              "data": {
+                "title": "میل‌گاردان و دیفرانسیل، چهارچرخ محرک(4WD/AWD)",
+                "image_url": "https://s100.divarcdn.com/static/icons/4/ic_check_circle.png",
+                "image_color": "SUCCESS_PRIMARY",
+                "has_divider": true,
+                "icon": {
+                  "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/success_primary/check_circle.png",
+                  "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/success_primary/check_circle.png",
+                  "icon_name": "CHECK_CIRCLE",
+                  "icon_color": "SUCCESS_PRIMARY"
+                }
+              }
+            },
+            {
+              "widget_type": "TITLE_ROW",
+              "data": {
+                "text": "موتور",
+                "has_divider": true,
+                "text_color": "TEXT_PRIMARY"
+              }
+            },
+            {
+              "widget_type": "FEATURE_ROW",
+              "data": {
+                "title": "عملکرد موتور",
+                "image_url": "https://s100.divarcdn.com/static/icons/4/ic_check_circle.png",
+                "image_color": "SUCCESS_PRIMARY",
+                "has_divider": true,
+                "icon": {
+                  "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/success_primary/check_circle.png",
+                  "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/success_primary/check_circle.png",
+                  "icon_name": "CHECK_CIRCLE",
+                  "icon_color": "SUCCESS_PRIMARY"
+                }
+              }
+            },
+            {
+              "widget_type": "FEATURE_ROW",
+              "data": {
+                "title": "روغن موتور و سیستم خنک‌کاری",
+                "image_url": "https://s100.divarcdn.com/static/icons/4/ic_check_circle.png",
+                "image_color": "SUCCESS_PRIMARY",
+                "has_divider": true,
+                "icon": {
+                  "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/success_primary/check_circle.png",
+                  "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/success_primary/check_circle.png",
+                  "icon_name": "CHECK_CIRCLE",
+                  "icon_color": "SUCCESS_PRIMARY"
+                }
+              }
+            },
+            {
+              "widget_type": "FEATURE_ROW",
+              "data": {
+                "title": "هشداردهنده‌های صفحه کیلومترشمار",
+                "image_url": "https://s100.divarcdn.com/static/icons/4/ic_check_circle.png",
+                "image_color": "SUCCESS_PRIMARY",
+                "has_divider": true,
+                "icon": {
+                  "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/success_primary/check_circle.png",
+                  "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/success_primary/check_circle.png",
+                  "icon_name": "CHECK_CIRCLE",
+                  "icon_color": "SUCCESS_PRIMARY"
+                }
+              }
+            },
+            {
+              "widget_type": "TITLE_ROW",
+              "data": {
+                "text": "گیربکس",
+                "has_divider": true,
+                "text_color": "TEXT_PRIMARY"
+              }
+            },
+            {
+              "widget_type": "FEATURE_ROW",
+              "data": {
+                "title": "گیربکس اتوماتیک (حالت درجا)",
+                "image_url": "https://s100.divarcdn.com/static/icons/4/ic_check_circle.png",
+                "image_color": "SUCCESS_PRIMARY",
+                "has_divider": true,
+                "icon": {
+                  "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/success_primary/check_circle.png",
+                  "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/success_primary/check_circle.png",
+                  "icon_name": "CHECK_CIRCLE",
+                  "icon_color": "SUCCESS_PRIMARY"
+                }
+              }
+            },
+            {
+              "widget_type": "TITLE_ROW",
+              "data": {
+                "text": "تجهیزات برقی",
+                "has_divider": true,
+                "text_color": "TEXT_PRIMARY"
+              }
+            },
+            {
+              "widget_type": "FEATURE_ROW",
+              "data": {
+                "title": "استارتر",
+                "image_url": "https://s100.divarcdn.com/static/icons/4/ic_check_circle.png",
+                "image_color": "SUCCESS_PRIMARY",
+                "has_divider": true,
+                "icon": {
+                  "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/success_primary/check_circle.png",
+                  "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/success_primary/check_circle.png",
+                  "icon_name": "CHECK_CIRCLE",
+                  "icon_color": "SUCCESS_PRIMARY"
+                }
+              }
+            },
+            {
+              "widget_type": "FEATURE_ROW",
+              "data": {
+                "title": "باتری",
+                "image_url": "https://s100.divarcdn.com/static/icons/4/ic_check_circle.png",
+                "image_color": "SUCCESS_PRIMARY",
+                "has_divider": true,
+                "icon": {
+                  "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/success_primary/check_circle.png",
+                  "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/success_primary/check_circle.png",
+                  "icon_name": "CHECK_CIRCLE",
+                  "icon_color": "SUCCESS_PRIMARY"
+                }
+              }
+            },
+            {
+              "widget_type": "FEATURE_ROW",
+              "data": {
+                "title": "دینام",
+                "image_url": "https://s100.divarcdn.com/static/icons/4/ic_check_circle.png",
+                "image_color": "SUCCESS_PRIMARY",
+                "has_divider": true,
+                "icon": {
+                  "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/success_primary/check_circle.png",
+                  "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/success_primary/check_circle.png",
+                  "icon_name": "CHECK_CIRCLE",
+                  "icon_color": "SUCCESS_PRIMARY"
+                }
+              }
+            },
+            {
+              "widget_type": "TITLE_ROW",
+              "data": {
+                "text": "اگزوز",
+                "has_divider": true,
+                "text_color": "TEXT_PRIMARY"
+              }
+            },
+            {
+              "widget_type": "FEATURE_ROW",
+              "data": {
+                "title": "اگزوز",
+                "image_url": "https://s100.divarcdn.com/static/icons/4/ic_check_circle.png",
+                "image_color": "SUCCESS_PRIMARY",
+                "has_divider": true,
+                "icon": {
+                  "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/success_primary/check_circle.png",
+                  "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/success_primary/check_circle.png",
+                  "icon_name": "CHECK_CIRCLE",
+                  "icon_color": "SUCCESS_PRIMARY"
+                }
+              }
+            }
+          ],
+          "slug": "bW90b3JfdmFfc3lzdGVtX2VudGVnaGFsZV9naG9kcmF0aA=="
+        }
+      },
+      "has_divider": true,
+      "icon": {
+        "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/car_engine.png",
+        "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/car_engine.png",
+        "icon_name": "CAR_ENGINE",
+        "icon_color": "ICON_SECONDARY"
+      }
+    }
+  },
+  {
+    "widget_type": "SCORE_ROW",
+    "data": {
+      "title": "تعلیق، فرمان و ترمز",
+      "percentage_score": 89,
+      "score_color": "SUCCESS_PRIMARY",
+      "image_url": "https://s100.divarcdn.com/static/icons/4/ic_car_hydraulics.png",
+      "image_color": "ICON_SECONDARY",
+      "action": {
+        "type": "LOAD_PAGE",
+        "payload": {
+          "title": "تعلیق، فرمان و ترمز",
+          "widget_list": [
+            {
+              "widget_type": "LEGEND_TITLE_ROW",
+              "data": {
+                "title": "تعلیق، فرمان و ترمز",
+                "show_thumbnail": true
+              }
+            },
+            {
+              "widget_type": "TITLE_ROW",
+              "data": {
+                "text": "آزمون رانندگی",
+                "has_divider": true,
+                "text_color": "TEXT_PRIMARY"
+              }
+            },
+            {
+              "widget_type": "SCORE_ROW",
+              "data": {
+                "title": "تعلیق",
+                "descriptive_score": "",
+                "score_color": "SUCCESS_SECONDARY",
+                "image_url": "https://s100.divarcdn.com/static/icons/4/ic_cancel.png",
+                "image_color": "ERROR_PRIMARY",
+                "action": {
+                  "type": "LOAD_PAGE",
+                  "payload": {
+                    "title": "تعلیق",
+                    "widget_list": [
+                      {
+                        "widget_type": "LEGEND_TITLE_ROW",
+                        "data": {
+                          "title": "تعلیق",
+                          "show_thumbnail": true
+                        }
+                      },
+                      {
+                        "widget_type": "FEATURE_ROW",
+                        "data": {
+                          "title": "سیستم جلوبندی معیوب است.",
+                          "image_url": "https://s100.divarcdn.com/static/icons/4/ic_cancel.png",
+                          "image_color": "ERROR_PRIMARY",
+                          "has_divider": true,
+                          "icon": {
+                            "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/error_primary/cancel.png",
+                            "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/error_primary/cancel.png",
+                            "icon_name": "CANCEL",
+                            "icon_color": "ERROR_PRIMARY"
+                          }
+                        }
+                      },
+                      {
+                        "widget_type": "FEATURE_ROW",
+                        "data": {
+                          "title": "سیستم تعلیق عقب سالم است.",
+                          "image_url": "https://s100.divarcdn.com/static/icons/4/ic_check_circle.png",
+                          "image_color": "SUCCESS_PRIMARY",
+                          "has_divider": true,
+                          "icon": {
+                            "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/success_primary/check_circle.png",
+                            "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/success_primary/check_circle.png",
+                            "icon_name": "CHECK_CIRCLE",
+                            "icon_color": "SUCCESS_PRIMARY"
+                          }
+                        }
+                      }
+                    ],
+                    "slug": "dGFsaWdo"
+                  }
+                },
+                "has_divider": true,
+                "icon": {
+                  "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/error_primary/cancel.png",
+                  "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/error_primary/cancel.png",
+                  "icon_name": "CANCEL",
+                  "icon_color": "ERROR_PRIMARY"
+                }
+              }
+            },
+            {
+              "widget_type": "FEATURE_ROW",
+              "data": {
+                "title": "فرمان",
+                "image_url": "https://s100.divarcdn.com/static/icons/4/ic_check_circle.png",
+                "image_color": "SUCCESS_PRIMARY",
+                "has_divider": true,
+                "icon": {
+                  "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/success_primary/check_circle.png",
+                  "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/success_primary/check_circle.png",
+                  "icon_name": "CHECK_CIRCLE",
+                  "icon_color": "SUCCESS_PRIMARY"
+                }
+              }
+            },
+            {
+              "widget_type": "FEATURE_ROW",
+              "data": {
+                "title": "فنربندی سمت راننده جلو",
+                "image_url": "https://s100.divarcdn.com/static/icons/4/ic_check_circle.png",
+                "image_color": "SUCCESS_PRIMARY",
+                "has_divider": true,
+                "icon": {
+                  "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/success_primary/check_circle.png",
+                  "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/success_primary/check_circle.png",
+                  "icon_name": "CHECK_CIRCLE",
+                  "icon_color": "SUCCESS_PRIMARY"
+                }
+              }
+            },
+            {
+              "widget_type": "FEATURE_ROW",
+              "data": {
+                "title": "فنربندی سمت سرنشین جلو",
+                "image_url": "https://s100.divarcdn.com/static/icons/4/ic_check_circle.png",
+                "image_color": "SUCCESS_PRIMARY",
+                "has_divider": true,
+                "icon": {
+                  "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/success_primary/check_circle.png",
+                  "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/success_primary/check_circle.png",
+                  "icon_name": "CHECK_CIRCLE",
+                  "icon_color": "SUCCESS_PRIMARY"
+                }
+              }
+            },
+            {
+              "widget_type": "FEATURE_ROW",
+              "data": {
+                "title": "سمت راننده عقب",
+                "image_url": "https://s100.divarcdn.com/static/icons/4/ic_check_circle.png",
+                "image_color": "SUCCESS_PRIMARY",
+                "has_divider": true,
+                "icon": {
+                  "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/success_primary/check_circle.png",
+                  "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/success_primary/check_circle.png",
+                  "icon_name": "CHECK_CIRCLE",
+                  "icon_color": "SUCCESS_PRIMARY"
+                }
+              }
+            },
+            {
+              "widget_type": "FEATURE_ROW",
+              "data": {
+                "title": "فنربندی سمت سرنشین عقب",
+                "image_url": "https://s100.divarcdn.com/static/icons/4/ic_check_circle.png",
+                "image_color": "SUCCESS_PRIMARY",
+                "has_divider": true,
+                "icon": {
+                  "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/success_primary/check_circle.png",
+                  "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/success_primary/check_circle.png",
+                  "icon_name": "CHECK_CIRCLE",
+                  "icon_color": "SUCCESS_PRIMARY"
+                }
+              }
+            },
+            {
+              "widget_type": "FEATURE_ROW",
+              "data": {
+                "title": "عملکرد ترمز",
+                "image_url": "https://s100.divarcdn.com/static/icons/4/ic_check_circle.png",
+                "image_color": "SUCCESS_PRIMARY",
+                "has_divider": true,
+                "icon": {
+                  "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/success_primary/check_circle.png",
+                  "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/success_primary/check_circle.png",
+                  "icon_name": "CHECK_CIRCLE",
+                  "icon_color": "SUCCESS_PRIMARY"
+                }
+              }
+            },
+            {
+              "widget_type": "TITLE_ROW",
+              "data": {
+                "text": "فرمان",
+                "has_divider": true,
+                "text_color": "TEXT_PRIMARY"
+              }
+            },
+            {
+              "widget_type": "FEATURE_ROW",
+              "data": {
+                "title": "برقی",
+                "image_url": "https://s100.divarcdn.com/static/icons/4/ic_check_circle.png",
+                "image_color": "SUCCESS_PRIMARY",
+                "has_divider": true,
+                "icon": {
+                  "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/success_primary/check_circle.png",
+                  "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/success_primary/check_circle.png",
+                  "icon_name": "CHECK_CIRCLE",
+                  "icon_color": "SUCCESS_PRIMARY"
+                }
+              }
+            },
+            {
+              "widget_type": "TITLE_ROW",
+              "data": {
+                "text": "فنربندی(حالت درجا)",
+                "has_divider": true,
+                "text_color": "TEXT_PRIMARY"
+              }
+            },
+            {
+              "widget_type": "FEATURE_ROW",
+              "data": {
+                "title": "سمت راننده جلو",
+                "image_url": "https://s100.divarcdn.com/static/icons/4/ic_check_circle.png",
+                "image_color": "SUCCESS_PRIMARY",
+                "has_divider": true,
+                "icon": {
+                  "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/success_primary/check_circle.png",
+                  "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/success_primary/check_circle.png",
+                  "icon_name": "CHECK_CIRCLE",
+                  "icon_color": "SUCCESS_PRIMARY"
+                }
+              }
+            },
+            {
+              "widget_type": "FEATURE_ROW",
+              "data": {
+                "title": "سمت سرنشین جلو",
+                "image_url": "https://s100.divarcdn.com/static/icons/4/ic_check_circle.png",
+                "image_color": "SUCCESS_PRIMARY",
+                "has_divider": true,
+                "icon": {
+                  "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/success_primary/check_circle.png",
+                  "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/success_primary/check_circle.png",
+                  "icon_name": "CHECK_CIRCLE",
+                  "icon_color": "SUCCESS_PRIMARY"
+                }
+              }
+            },
+            {
+              "widget_type": "FEATURE_ROW",
+              "data": {
+                "title": "سمت راننده عقب",
+                "image_url": "https://s100.divarcdn.com/static/icons/4/ic_check_circle.png",
+                "image_color": "SUCCESS_PRIMARY",
+                "has_divider": true,
+                "icon": {
+                  "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/success_primary/check_circle.png",
+                  "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/success_primary/check_circle.png",
+                  "icon_name": "CHECK_CIRCLE",
+                  "icon_color": "SUCCESS_PRIMARY"
+                }
+              }
+            },
+            {
+              "widget_type": "FEATURE_ROW",
+              "data": {
+                "title": "سمت سرنشین عقب",
+                "image_url": "https://s100.divarcdn.com/static/icons/4/ic_check_circle.png",
+                "image_color": "SUCCESS_PRIMARY",
+                "has_divider": true,
+                "icon": {
+                  "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/success_primary/check_circle.png",
+                  "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/success_primary/check_circle.png",
+                  "icon_name": "CHECK_CIRCLE",
+                  "icon_color": "SUCCESS_PRIMARY"
+                }
+              }
+            },
+            {
+              "widget_type": "TITLE_ROW",
+              "data": {
+                "text": "ترمز",
+                "has_divider": true,
+                "text_color": "TEXT_PRIMARY"
+              }
+            },
+            {
+              "widget_type": "FEATURE_ROW",
+              "data": {
+                "title": "ترمز در حالت درجا",
+                "image_url": "https://s100.divarcdn.com/static/icons/4/ic_check_circle.png",
+                "image_color": "SUCCESS_PRIMARY",
+                "has_divider": true,
+                "icon": {
+                  "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/success_primary/check_circle.png",
+                  "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/success_primary/check_circle.png",
+                  "icon_name": "CHECK_CIRCLE",
+                  "icon_color": "SUCCESS_PRIMARY"
+                }
+              }
+            },
+            {
+              "widget_type": "TITLE_ROW",
+              "data": {
+                "text": "ترمزدستی",
+                "has_divider": true,
+                "text_color": "TEXT_PRIMARY"
+              }
+            },
+            {
+              "widget_type": "FEATURE_ROW",
+              "data": {
+                "title": "معمولی",
+                "image_url": "https://s100.divarcdn.com/static/icons/4/ic_check_circle.png",
+                "image_color": "SUCCESS_PRIMARY",
+                "has_divider": true,
+                "icon": {
+                  "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/success_primary/check_circle.png",
+                  "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/success_primary/check_circle.png",
+                  "icon_name": "CHECK_CIRCLE",
+                  "icon_color": "SUCCESS_PRIMARY"
+                }
+              }
+            }
+          ],
+          "slug": "dG9ybW96X2Zhcm1hbl92YV9zeXN0ZW1fdGFsaWdo"
+        }
+      },
+      "has_divider": true,
+      "icon": {
+        "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/car_hydraulics.png",
+        "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/car_hydraulics.png",
+        "icon_name": "CAR_HYDRAULICS",
+        "icon_color": "ICON_SECONDARY"
+      }
+    }
+  },
+  {
+    "widget_type": "SCORE_ROW",
+    "data": {
+      "title": "آپشن‌ها",
+      "percentage_score": 100,
+      "score_color": "SUCCESS_PRIMARY",
+      "image_url": "https://s100.divarcdn.com/static/icons/4/ic_car_options.png",
+      "image_color": "ICON_SECONDARY",
+      "action": {
+        "type": "LOAD_PAGE",
+        "payload": {
+          "title": "آپشن‌ها",
+          "widget_list": [
+            {
+              "widget_type": "LEGEND_TITLE_ROW",
+              "data": {
+                "title": "آپشن‌ها",
+                "show_thumbnail": true
+              }
+            },
+            {
+              "widget_type": "TITLE_ROW",
+              "data": {
+                "text": "جانبی",
+                "has_divider": true,
+                "text_color": "TEXT_PRIMARY"
+              }
+            },
+            {
+              "widget_type": "FEATURE_ROW",
+              "data": {
+                "title": "بوق",
+                "image_url": "https://s100.divarcdn.com/static/icons/4/ic_check_circle.png",
+                "image_color": "SUCCESS_PRIMARY",
+                "has_divider": true,
+                "icon": {
+                  "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/success_primary/check_circle.png",
+                  "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/success_primary/check_circle.png",
+                  "icon_name": "CHECK_CIRCLE",
+                  "icon_color": "SUCCESS_PRIMARY"
+                }
+              }
+            },
+            {
+              "widget_type": "FEATURE_ROW",
+              "data": {
+                "title": "فندک",
+                "image_url": "https://s100.divarcdn.com/static/icons/4/ic_check_circle.png",
+                "image_color": "SUCCESS_PRIMARY",
+                "has_divider": true,
+                "icon": {
+                  "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/success_primary/check_circle.png",
+                  "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/success_primary/check_circle.png",
+                  "icon_name": "CHECK_CIRCLE",
+                  "icon_color": "SUCCESS_PRIMARY"
+                }
+              }
+            },
+            {
+              "widget_type": "FEATURE_ROW",
+              "data": {
+                "title": "تنظیم کننده موقعیت غربیلک(برقی-مکانیکی)",
+                "image_url": "https://s100.divarcdn.com/static/icons/4/ic_check_circle.png",
+                "image_color": "SUCCESS_PRIMARY",
+                "has_divider": true,
+                "icon": {
+                  "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/success_primary/check_circle.png",
+                  "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/success_primary/check_circle.png",
+                  "icon_name": "CHECK_CIRCLE",
+                  "icon_color": "SUCCESS_PRIMARY"
+                }
+              }
+            },
+            {
+              "widget_type": "FEATURE_ROW",
+              "data": {
+                "title": "سیستم صوتی تصویری(CD درایو یا USB یا رادیو)",
+                "image_url": "https://s100.divarcdn.com/static/icons/4/ic_check_circle.png",
+                "image_color": "SUCCESS_PRIMARY",
+                "has_divider": true,
+                "icon": {
+                  "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/success_primary/check_circle.png",
+                  "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/success_primary/check_circle.png",
+                  "icon_name": "CHECK_CIRCLE",
+                  "icon_color": "SUCCESS_PRIMARY"
+                }
+              }
+            },
+            {
+              "widget_type": "FEATURE_ROW",
+              "data": {
+                "title": "کف‌پوش‌ها",
+                "image_url": "https://s100.divarcdn.com/static/icons/4/ic_check_circle.png",
+                "image_color": "SUCCESS_PRIMARY",
+                "has_divider": true,
+                "icon": {
+                  "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/success_primary/check_circle.png",
+                  "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/success_primary/check_circle.png",
+                  "icon_name": "CHECK_CIRCLE",
+                  "icon_color": "SUCCESS_PRIMARY"
+                }
+              }
+            },
+            {
+              "widget_type": "FEATURE_ROW",
+              "data": {
+                "title": "آفتاب گیرها یا آینه آرایش",
+                "image_url": "https://s100.divarcdn.com/static/icons/4/ic_check_circle.png",
+                "image_color": "SUCCESS_PRIMARY",
+                "has_divider": true,
+                "icon": {
+                  "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/success_primary/check_circle.png",
+                  "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/success_primary/check_circle.png",
+                  "icon_name": "CHECK_CIRCLE",
+                  "icon_color": "SUCCESS_PRIMARY"
+                }
+              }
+            },
+            {
+              "widget_type": "FEATURE_ROW",
+              "data": {
+                "title": "جک یا آچارچرخ",
+                "image_url": "https://s100.divarcdn.com/static/icons/4/ic_check_circle.png",
+                "image_color": "SUCCESS_PRIMARY",
+                "has_divider": true,
+                "icon": {
+                  "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/success_primary/check_circle.png",
+                  "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/success_primary/check_circle.png",
+                  "icon_name": "CHECK_CIRCLE",
+                  "icon_color": "SUCCESS_PRIMARY"
+                }
+              }
+            },
+            {
+              "widget_type": "FEATURE_ROW",
+              "data": {
+                "title": "آنتن",
+                "image_url": "https://s100.divarcdn.com/static/icons/4/ic_check_circle.png",
+                "image_color": "SUCCESS_PRIMARY",
+                "has_divider": true,
+                "icon": {
+                  "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/success_primary/check_circle.png",
+                  "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/success_primary/check_circle.png",
+                  "icon_name": "CHECK_CIRCLE",
+                  "icon_color": "SUCCESS_PRIMARY"
+                }
+              }
+            },
+            {
+              "widget_type": "FEATURE_ROW",
+              "data": {
+                "title": "مکانیزم صندوق‌پران(برقی-مکانیکی)",
+                "image_url": "https://s100.divarcdn.com/static/icons/4/ic_check_circle.png",
+                "image_color": "SUCCESS_PRIMARY",
+                "has_divider": true,
+                "icon": {
+                  "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/success_primary/check_circle.png",
+                  "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/success_primary/check_circle.png",
+                  "icon_name": "CHECK_CIRCLE",
+                  "icon_color": "SUCCESS_PRIMARY"
+                }
+              }
+            },
+            {
+              "widget_type": "FEATURE_ROW",
+              "data": {
+                "title": "دربازکن باک بنزین",
+                "image_url": "https://s100.divarcdn.com/static/icons/4/ic_check_circle.png",
+                "image_color": "SUCCESS_PRIMARY",
+                "has_divider": true,
+                "icon": {
+                  "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/success_primary/check_circle.png",
+                  "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/success_primary/check_circle.png",
+                  "icon_name": "CHECK_CIRCLE",
+                  "icon_color": "SUCCESS_PRIMARY"
+                }
+              }
+            },
+            {
+              "widget_type": "TITLE_ROW",
+              "data": {
+                "text": "رفاهی",
+                "has_divider": true,
+                "text_color": "TEXT_PRIMARY"
+              }
+            },
+            {
+              "widget_type": "FEATURE_ROW",
+              "data": {
+                "title": "نمایشگر(LCD)",
+                "image_url": "https://s100.divarcdn.com/static/icons/4/ic_check_circle.png",
+                "image_color": "SUCCESS_PRIMARY",
+                "has_divider": true,
+                "icon": {
+                  "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/success_primary/check_circle.png",
+                  "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/success_primary/check_circle.png",
+                  "icon_name": "CHECK_CIRCLE",
+                  "icon_color": "SUCCESS_PRIMARY"
+                }
+              }
+            },
+            {
+              "widget_type": "FEATURE_ROW",
+              "data": {
+                "title": "سانروف یا پانوراما",
+                "image_url": "https://s100.divarcdn.com/static/icons/4/ic_check_circle.png",
+                "image_color": "SUCCESS_PRIMARY",
+                "has_divider": true,
+                "icon": {
+                  "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/success_primary/check_circle.png",
+                  "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/success_primary/check_circle.png",
+                  "icon_name": "CHECK_CIRCLE",
+                  "icon_color": "SUCCESS_PRIMARY"
+                }
+              }
+            },
+            {
+              "widget_type": "FEATURE_ROW",
+              "data": {
+                "title": "کروز کنترل",
+                "image_url": "https://s100.divarcdn.com/static/icons/4/ic_check_circle.png",
+                "image_color": "SUCCESS_PRIMARY",
+                "has_divider": true,
+                "icon": {
+                  "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/success_primary/check_circle.png",
+                  "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/success_primary/check_circle.png",
+                  "icon_name": "CHECK_CIRCLE",
+                  "icon_color": "SUCCESS_PRIMARY"
+                }
+              }
+            },
+            {
+              "widget_type": "FEATURE_ROW",
+              "data": {
+                "title": "سیستم اتوماتیک فعال‌سازی چراغ‌ها (AUTO LIGHT)",
+                "image_url": "https://s100.divarcdn.com/static/icons/4/ic_check_circle.png",
+                "image_color": "SUCCESS_PRIMARY",
+                "has_divider": true,
+                "icon": {
+                  "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/success_primary/check_circle.png",
+                  "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/success_primary/check_circle.png",
+                  "icon_name": "CHECK_CIRCLE",
+                  "icon_color": "SUCCESS_PRIMARY"
+                }
+              }
+            },
+            {
+              "widget_type": "FEATURE_ROW",
+              "data": {
+                "title": "سیستم ورود بدون کلید (KEY LESS)",
+                "image_url": "https://s100.divarcdn.com/static/icons/4/ic_check_circle.png",
+                "image_color": "SUCCESS_PRIMARY",
+                "has_divider": true,
+                "icon": {
+                  "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/success_primary/check_circle.png",
+                  "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/success_primary/check_circle.png",
+                  "icon_name": "CHECK_CIRCLE",
+                  "icon_color": "SUCCESS_PRIMARY"
+                }
+              }
+            },
+            {
+              "widget_type": "TITLE_ROW",
+              "data": {
+                "text": "ایمنی",
+                "has_divider": true,
+                "text_color": "TEXT_PRIMARY"
+              }
+            },
+            {
+              "widget_type": "FEATURE_ROW",
+              "data": {
+                "title": "سنسور پارک",
+                "image_url": "https://s100.divarcdn.com/static/icons/4/ic_check_circle.png",
+                "image_color": "SUCCESS_PRIMARY",
+                "has_divider": true,
+                "icon": {
+                  "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/success_primary/check_circle.png",
+                  "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/success_primary/check_circle.png",
+                  "icon_name": "CHECK_CIRCLE",
+                  "icon_color": "SUCCESS_PRIMARY"
+                }
+              }
+            },
+            {
+              "widget_type": "FEATURE_ROW",
+              "data": {
+                "title": "دوربین دنده عقب",
+                "image_url": "https://s100.divarcdn.com/static/icons/4/ic_check_circle.png",
+                "image_color": "SUCCESS_PRIMARY",
+                "has_divider": true,
+                "icon": {
+                  "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/success_primary/check_circle.png",
+                  "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/success_primary/check_circle.png",
+                  "icon_name": "CHECK_CIRCLE",
+                  "icon_color": "SUCCESS_PRIMARY"
+                }
+              }
+            }
+          ],
+          "slug": "YXBzaGVu"
+        }
+      },
+      "has_divider": true,
+      "icon": {
+        "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/car_options.png",
+        "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/car_options.png",
+        "icon_name": "CAR_OPTIONS",
+        "icon_color": "ICON_SECONDARY"
+      }
+    }
+  },
+  {
+    "widget_type": "SCORE_ROW",
+    "data": {
+      "title": "سند و مدارک",
+      "descriptive_score": "",
+      "score_color": "SUCCESS_PRIMARY",
+      "image_url": "https://s100.divarcdn.com/static/icons/4/ic_car_documents.png",
+      "image_color": "ICON_SECONDARY",
+      "action": {
+        "type": "LOAD_PAGE",
+        "payload": {
+          "title": "سند و مدارک",
+          "widget_list": [
+            {
+              "widget_type": "LEGEND_TITLE_ROW",
+              "data": {
+                "title": "سند و مدارک",
+                "show_thumbnail": true
+              }
+            },
+            {
+              "widget_type": "SCORE_ROW",
+              "data": {
+                "title": "برند، مدل، تیپ",
+                "descriptive_score": "کیا اسپورتیج 2400cc",
+                "score_color": "TEXT_SECONDARY",
+                "image_url": "",
+                "image_color": "ICON_SECONDARY",
+                "has_divider": true,
+                "icon": {}
+              }
+            },
+            {
+              "widget_type": "SCORE_ROW",
+              "data": {
+                "title": "سال ساخت",
+                "descriptive_score": "۲۰۱۴",
+                "score_color": "TEXT_SECONDARY",
+                "image_url": "",
+                "image_color": "ICON_SECONDARY",
+                "has_divider": true,
+                "icon": {}
+              }
+            },
+            {
+              "widget_type": "SCORE_ROW",
+              "data": {
+                "title": "کارکرد زمان کارشناسی",
+                "descriptive_score": "۱۳۸۴۸۹",
+                "score_color": "TEXT_SECONDARY",
+                "image_url": "",
+                "image_color": "ICON_SECONDARY",
+                "has_divider": true,
+                "icon": {}
+              }
+            },
+            {
+              "widget_type": "SCORE_ROW",
+              "data": {
+                "title": "رنگ بدنه",
+                "descriptive_score": "سفید",
+                "score_color": "TEXT_SECONDARY",
+                "image_url": "",
+                "image_color": "ICON_SECONDARY",
+                "has_divider": true,
+                "icon": {}
+              }
+            },
+            {
+              "widget_type": "SCORE_ROW",
+              "data": {
+                "title": "کد شناسایی (VIN)",
+                "descriptive_score": "krla۱۴۳e۱۳۷۶۵۳۹۶۱",
+                "score_color": "TEXT_SECONDARY",
+                "image_url": "",
+                "image_color": "ICON_SECONDARY",
+                "has_divider": true,
+                "icon": {}
+              }
+            },
+            {
+              "widget_type": "SCORE_ROW",
+              "data": {
+                "title": "شماره شاسی",
+                "descriptive_score": "knapc۸۱۲de۷۶۵۳۹۶۱",
+                "score_color": "TEXT_SECONDARY",
+                "image_url": "",
+                "image_color": "ICON_SECONDARY",
+                "has_divider": true,
+                "icon": {}
+              }
+            },
+            {
+              "widget_type": "SCORE_ROW",
+              "data": {
+                "title": "سند",
+                "descriptive_score": "از سوی مالک ارائه نشد",
+                "score_color": "TEXT_SECONDARY",
+                "image_url": "",
+                "image_color": "ICON_SECONDARY",
+                "has_divider": true,
+                "icon": {}
+              }
+            },
+            {
+              "widget_type": "SCORE_ROW",
+              "data": {
+                "title": "کارت ماشین",
+                "descriptive_score": "دارد",
+                "score_color": "TEXT_SECONDARY",
+                "image_url": "",
+                "image_color": "ICON_SECONDARY",
+                "has_divider": true,
+                "icon": {}
+              }
+            },
+            {
+              "widget_type": "SCORE_ROW",
+              "data": {
+                "title": "معاینه فنی",
+                "descriptive_score": "از سوی مالک ارائه نشد",
+                "score_color": "TEXT_SECONDARY",
+                "image_url": "",
+                "image_color": "ICON_SECONDARY",
+                "has_divider": true,
+                "icon": {}
+              }
+            },
+            {
+              "widget_type": "SCORE_ROW",
+              "data": {
+                "title": "بیمه شخص‌ ثالث",
+                "descriptive_score": "۱۳۹۹/۹/۲۸",
+                "score_color": "TEXT_SECONDARY",
+                "image_url": "",
+                "image_color": "ICON_SECONDARY",
+                "has_divider": true,
+                "icon": {}
+              }
+            },
+            {
+              "widget_type": "SCORE_ROW",
+              "data": {
+                "title": "تخفیف بیمه شخص ثالث",
+                "descriptive_score": "۵ سال",
+                "score_color": "TEXT_SECONDARY",
+                "image_url": "",
+                "image_color": "ICON_SECONDARY",
+                "has_divider": true,
+                "icon": {}
+              }
+            },
+            {
+              "widget_type": "SCORE_ROW",
+              "data": {
+                "title": "تخفیف بیمه بدنه",
+                "descriptive_score": "ندارد",
+                "score_color": "TEXT_SECONDARY",
+                "image_url": "",
+                "image_color": "ICON_SECONDARY",
+                "has_divider": true,
+                "icon": {}
+              }
+            },
+            {
+              "widget_type": "SCORE_ROW",
+              "data": {
+                "title": "سوئیچ یدکی",
+                "descriptive_score": "از سوی مالک ارائه نشد",
+                "score_color": "TEXT_SECONDARY",
+                "image_url": "",
+                "image_color": "ICON_SECONDARY",
+                "has_divider": true,
+                "icon": {}
+              }
+            },
+            {
+              "widget_type": "SCORE_ROW",
+              "data": {
+                "title": "گارانتی",
+                "descriptive_score": "از سوی مالک ارائه نشد",
+                "score_color": "TEXT_SECONDARY",
+                "image_url": "",
+                "image_color": "ICON_SECONDARY",
+                "has_divider": true,
+                "icon": {}
+              }
+            }
+          ],
+          "slug": "c2FuYWRfdmFfbWFkcmFr"
+        }
+      },
+      "has_divider": true,
+      "icon": {
+        "image_url_dark": "https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/car_documents.png",
+        "image_url_light": "https://s100.divarcdn.com/static/imgs/widget-icons/light/icon_secondary/car_documents.png",
+        "icon_name": "CAR_DOCUMENTS",
+        "icon_color": "ICON_SECONDARY"
+      }
+    }
+  }
+]
