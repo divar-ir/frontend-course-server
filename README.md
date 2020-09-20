@@ -1,11 +1,10 @@
 # Front-end Course Server
 
-### Setup
-```shell
-$ git clone https://github.com/divar-ir/frontend-course-server.git
-```
+### Quick Start
 
-```shell
-$ yarn install
-$ yarn start
+```bash
+git clone https://github.com/divar-ir/frontend-course-server.git
+cd frontend-course-server
+yarn
+yarn start
 ```
