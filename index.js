@@ -3,7 +3,7 @@ const fastify = require('fastify')({
 });
 const widgets = require('./widgets');
 const fullWidgets = require('./full-widgets');
-const prefix = 'api/v1';
+const prefix = '/api/v1';
 
 fastify.get(`${prefix}/widgets`, () => {
     return widgets;
